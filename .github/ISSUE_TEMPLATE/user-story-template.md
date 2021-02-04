@@ -1,7 +1,7 @@
 ---
 name: User Story Template
 about: Template para user stories
-title: "[US]"
+title: "[US] - "
 labels: ''
 assignees: ''
 
@@ -23,11 +23,7 @@ assignees: ''
 - Ter o Storybook
 - ...
 
-
-
-
-
-### Observações:
+### Observações: (caso não tenha, delete essa parte)
 
 - A issue deve ser pontuada;
 - A issue deve ser delegada a alguém;
