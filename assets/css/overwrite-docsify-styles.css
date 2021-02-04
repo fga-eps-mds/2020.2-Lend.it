@@ -1,0 +1,21 @@
+.sidebar {
+  padding: 0 !important;
+}
+
+.sidebar a:hover {
+  color: #006600;
+}
+
+h1 a span,
+h2 a span,
+h3 a span,
+h4 a span,
+h5 a span,
+h6 a span,
+p strong {
+  color: #133e79 !important;
+}
+
+p, li{
+  color: #353535;
+}
