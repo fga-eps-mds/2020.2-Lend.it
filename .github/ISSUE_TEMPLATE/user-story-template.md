@@ -9,7 +9,7 @@ assignees: ''
 
 ## Título da issue
 
-### NumeroUS:
+### Descrição:
 
 ### Tarefas:
 
