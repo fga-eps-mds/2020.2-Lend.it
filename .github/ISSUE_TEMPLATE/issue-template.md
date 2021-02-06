@@ -1,5 +1,5 @@
 ---
-name: issue template
+name: Issue template
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
@@ -7,22 +7,15 @@ assignees: ''
 
 ---
 
-# Issue Template
-
-## Nome da Issue
-[Código e nome da história de usuário/fix.]
-ou
-[Descrição simples de outra tarefa a se realizar.]
-
 ## Descrição da Issue
 [Descrever de forma sucinta a issue, colocando quaisquer informações necessárias para a realização da mesma.]
 
-### Tasks:
+## Tasks:
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
 
-### Critérios de Aceitação:
+## Critérios de Aceitação:
 - [ ] Critério 1
 - [ ] Critério 2
 - [ ] Critério 3
