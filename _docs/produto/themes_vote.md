@@ -2,6 +2,15 @@
 
 Para definição do tema de atuação do projeto, foi optado inicialmente para trabalhar com os [Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs) da ONU. Em cima desse escopo de atuação foi pedido para os times de EPS e MDS para pensar em alguma proposta de acordo com os 17 tópicos existentes. No dia 06/02/2021 fizemos uma reunião no período da tarde para levantamento e escolha das ideias propostas:
 
+## Histórico de Revisões
+
+| Data | Versão | Descrição | Autor(es) |
+| :--: | :----: | :-------: | :-------: |
+| 09/02/2021 | 1.0 | Adição documento na Wiki | [Rogério Júnior](https://github.com/rogerioo) |
+
+
+### Propostas de cada membro
+
 | Membro | Propostas |
 | :----: | :-------: |
 | Ésio Gustavo | <ul style="text-align: left"> <li> [ODS 3](https://brasil.un.org/pt-br/sdgs/3): Telemedicina social </li> <li> [ODS 4](https://brasil.un.org/pt-br/sdgs/4): plataforma para dar visibilidade a projetos de professores </li> <li> [ODS 5](https://brasil.un.org/pt-br/sdgs/5): aplicativo para fazer ocorrência para mulheres que sofram violência </li> </ul> |
@@ -24,5 +33,3 @@ Feito o levantamento dos temas, o próximo passo foi a votação. Primeiramente 
 Entre as votações, as ideias mantidas eram aquelas que tinham mais votos à favor do que contra, as que tinha mais votos contra ou nenhum voto eram descartadas. Os dados foram registrados na tabela abaixo e como pode ser visto a ideia campeã foi ```ODS 12: empréstimos de coisas em geral que as pessoas estejam precisando``` e foi aprovada pelo professor na aula do dia 09/02/2021.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXlko8PmJ8hyM7mhffXmrbCqaxAR8p4x1o3c7BHUnfdt2ilGwR3GQW3-9CN9j0llGOd-w0SS4SACmk/pubhtml?widget=true&amp;headers=false" height="1000"></iframe>
-
-*Autor*:[Rogério Júnior](https://github.com/rogerioo)
