@@ -118,7 +118,6 @@ Devido a padronização de certos bens e da alta demanda deles, muitos objetos s
 
 #### 3.7 Alternativas e concorrências
 
-
 #### 3.7.1 Tem açúcar?
 
 “Tem açúcar?” é um aplicativo que facilita o compartilhamento de bens materiais entre vizinhos. Através desta prática, busca estimular a colaboração e o senso de comunidade, assim, economizando dinheiro, agindo de forma sustentável e quebrando o gelo na hora de conhecer os vizinhos.
