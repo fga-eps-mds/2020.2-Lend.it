@@ -92,7 +92,6 @@ Devido a padronização de certos bens e da alta demanda deles, muitos objetos s
 | Mateus Cunha Maia<br> Matheus Afonso de Souza<br>Matheus Yan Monteiro dos Santos Almeida<br> Vinicius de Sousa Saturnino<br> Thais Rebouças de Araujo<br> Thiago Mesquita Peres Nunes de Carvalho<br> | Equipe responsável pelo desenvolvimento da aplicação. | Estudantes de Métodos de Desenvolvimento de Software na Universidade de Brasília - FGA UnB/Gama. | Desenvolver a aplicação em questão. | Entregar o software com as funcionalidades desejadas pelo público alvo dentro do prazo da disciplina. | Alto. |
 
 
-
 #### 3.4.3 Equipe de Gestão do Projeto
 
 | Representantes | Descrição | Tipo | Responsabilidades | Critérios de Sucesso | Envolvimento |
