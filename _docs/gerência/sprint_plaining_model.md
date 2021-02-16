@@ -18,23 +18,25 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 ## Objetivos   
 
-|     _Issue_      |    Pontos   |     *Assign*     |
-|:----------------:|:-----------:|:----------------:|
+|     *Issue*      | Titulo |    Pontos   |     *Assign*     |
+|:----------------:|:------:|:-----------:|:----------------:|
+| [#<issue_number>](https://github.com/issues/<issue_number>) |  |  |  |
 
 <b>Total de pontos planejados: ##</b>  
 
 ### Dívida    
 
-|     _Issue_      |    Pontos   |
-|:----------------:|:-----------:|
+|     *Issue*      | Titulo |    Pontos   |
+|:----------------:|:------:|:-----------:|
+| [#<issue_number>](https://github.com/issues/<issue_number>) |  |  |
 
 <b>Total: ##</b> 
 
 ### Issues Acrescentadas Durante a Sprint  
 
-|     _Issue_      |    Pontos   |
-|:----------------:|:-----------:|
-
+|     *Issue*      | Titulo |    Pontos   |
+|:----------------:|:------:|:-----------:|
+| [#<issue_number>](https://github.com/issues/<issue_number>) |  |  |
 ***
 
 <div style="text-align: center"> Total de pontos da <i>sprint</i>: ## </div> <br>
