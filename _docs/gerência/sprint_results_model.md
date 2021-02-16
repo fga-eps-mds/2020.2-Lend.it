@@ -5,8 +5,9 @@ Fazer a restrospectiva da *sprint* explicando de forma detalhada qual foi o resu
 ## Fechamento da Sprint
 
 
-| _Issue_ | _Status_ | Pontos |
-| :-----: | :------: | :----: |
+| *Issue* | Título | *Status* | Pontos |
+| :-----: | :----: | :------: | :----: |
+| [#issue_number](https://github.com/issues/issue_number) |  |  |  |
 
 
 Pontos Planejados Concluídos: 00
