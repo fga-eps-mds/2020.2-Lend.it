@@ -18,10 +18,36 @@ p strong {
 
 p,
 li {
-  color: #353535;
+  color: #505d6b;
+  font-size: 14px;
 }
 
 p {
   text-align: justify !important;
   text-indent: 30px;
+}
+
+li {
+  margin-left: 30px;
+}
+
+li p {
+  text-indent: 0px;
+}
+
+li li {
+  margin-left: 0px;
+}
+
+table th:first-of-type {
+  width: 5%;
+}
+table th:nth-of-type(2) {
+  width: 60%;
+}
+table th:nth-of-type(3) {
+  width: 10%;
+}
+table th:nth-of-type(4) {
+  width: 20%;
 }
