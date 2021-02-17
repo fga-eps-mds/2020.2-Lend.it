@@ -20,13 +20,13 @@ Pontos Não Agregados: 0
 
 ## Burndown
 
-Explicação sobre em cima dos dados.
+Explicação em cima dos dados.
 
 ![grafico]()
 
 ## Velocity
 
-Explicação sobre em cima dos dados.
+Explicação em cima dos dados.
 
 ![grafico]()
 
