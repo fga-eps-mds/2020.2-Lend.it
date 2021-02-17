@@ -1,8 +1,6 @@
 # Planejamento Sprint 0 (*Design Sprint*)
 
-<p align="justify">
 Sprint dedicada ao pontapé inicial do grupo: escolha da metodologia a ser seguida, definição de horários e dos ritos à serem usados e treinamento do time de MDS em algumas tecnologias base para o projeto (Git e Docker).
-</p>
 
 ## Tamanho da Sprint 0
 

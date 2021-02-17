@@ -16,6 +16,12 @@ p strong {
   color: #133e79 !important;
 }
 
-p, li{
+p,
+li {
   color: #353535;
+}
+
+p {
+  text-align: justify !important;
+  text-indent: 30px;
 }

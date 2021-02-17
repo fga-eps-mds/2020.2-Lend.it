@@ -1,9 +1,6 @@
 # Planejamento Sprint X
 
-<p align="justify">
 Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas anteriores, buscando sempre linkar com aquilo que seja relevante às explicações.
-</p>
-
 
 ## Tamanho da Sprint X      
 **Início:** 00/00/0000
