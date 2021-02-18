@@ -1,3 +1,3 @@
 # Produto
 
-### 1. [**Escolha do Tema**](_docs/produto/themes_vote.md)
+### 1. [**Lean Inception**](_docs/produto/lean_inception.md)
