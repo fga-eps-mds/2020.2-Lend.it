@@ -47,7 +47,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 ***Product Manager*:** [Esio Gustavo](https://github.com/EsioFreitas)
 
-**Arquiteto:** [Youssef Muhamad](https://github.com/youssef-md)
+***Arquiteto:*** [Youssef Muhamad](https://github.com/youssef-md)
 
 ***DevOps*:** [Lucas Dutra](https://github.com/lucasdutraf)
 
