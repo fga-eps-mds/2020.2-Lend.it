@@ -26,4 +26,4 @@ A técnica é muito simples: para cada requisito ou item do seu backlog, você d
 
 ## Referências
 
-- COSTA, Flávio. **Técnica MoSCoW na Priorização dos Requisitos**. [S. l.], 2018. Disponível em: https://sitecampus.com.br/tecnica-moscow-na-priorizacao-dos-requisitos/. Acesso em: 5 set. 2019.
+- COSTA, Flávio. **Técnica MoSCoW na Priorização dos Requisitos**. [S. l.], 2018. Disponível em: https://sitecampus.com.br/tecnica-moscow-na-priorizacao-dos-requisitos/. Acesso em: 18 fev. 2021.

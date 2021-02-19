@@ -15,5 +15,5 @@ Por esse motivos usamos o backlog para direcionar o desenvolvimento da aplicaç�
 
 ## Referências
 
-- MILLER, Todd. Optimizing Product Backlog Refinement. [S. l.], 2017. Disponível em: https://www.scrum.org/resources/blog/optimizing-product-backlog-refinement. Acesso em: 5 set. 2019.
+- MILLER, Todd. Optimizing Product Backlog Refinement. [S. l.], 2017. Disponível em: https://www.scrum.org/resources/blog/optimizing-product-backlog-refinement. Acesso em: 18 fev. 2021.
 - SUTHERLAND, Jeff. **Scrum**: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo. 2. ed. [S. l.]: LeYa, 2013. 240 p. ISBN 8544104517.
