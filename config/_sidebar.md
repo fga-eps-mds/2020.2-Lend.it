@@ -3,6 +3,7 @@
 - [**Produto**](_docs/produto/README.md)
   - [**Lean Inception**](_docs/produto/lean_inception.md)
   - [**Visão do Produto**](_docs/produto/visao_produto.md)
+  - [**Pesquisa de Mercado**](../_docs/produto/pesquisa_mercado.md)
 - [**Projeto**](_docs/projeto/README.md)
   - [**Escolha do Tema**](_docs/projeto/themes_vote.md)
   - [**Backlog**](_docs/projeto/backlog.md)
