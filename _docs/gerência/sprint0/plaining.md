@@ -12,6 +12,8 @@ Sprint dedicada ao pontapé inicial do grupo: escolha da metodologia a ser segui
 
 ## Objetivos
 
+<div class="full-width">
+
 |     *Issue*      | Titulo |    Pontos   |     *Assign*     |
 |:----------------:|:------:|:-----------:|:----------------:|
 | [#4](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/4) | Pull requests educativos | 1 | [Esio Gustavo](https://github.com/EsioFreitas) |
@@ -31,6 +33,7 @@ Sprint dedicada ao pontapé inicial do grupo: escolha da metodologia a ser segui
 | [#23](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/23) | Dojo de Git  | 1 | [Lucas Dutra](https://github.com/lucasdutraf) |
 | [#28](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/28) | Documento de conclusão de sprint 0 | 1 | [Rogério Júnior](https://github.com/rogerioo) |
 | [#42](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/42) | Documentar Prática Ágil  | 1 | [Rogério Júnior](https://github.com/rogerioo) |
+</div>
 
 <b>Total de pontos planejados: 17</b>  
 
