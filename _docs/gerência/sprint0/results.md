@@ -14,6 +14,8 @@ Vale ressaltar que este foi o primeiro contato mais próximos dos times de *EPS*
 Outro ponto muito abordado nessa sprint foram os dojos, realizado pelo *DevOps*, para começar o treinamento do time de *MDS* em algumas tecnologias que são comuns a todos os projetos, tais como *Git* e *Docker*. Foi feito também o [*roadmap*](https://docs.google.com/spreadsheets/d/1mUBDM7covg2bMSA_dbjxosfBFmCLuXOJutKxEjRi-eo/edit#gid=0) da matéria, pelo *Product Owner*, até a **Release 1** para guiar os próximos passos do time.
 ## Fechamento da Sprint
 
+<div class="full-width">
+
 | *Issue* | Título | *Status* | Pontos |
 | :-----: | :----: | :------: | :----: |
 | [#4](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/4) | Pull requests educativos | *Closed* | 1 |
@@ -33,6 +35,7 @@ Outro ponto muito abordado nessa sprint foram os dojos, realizado pelo *DevOps*,
 | [#23](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/23) | Dojo de Git  | *Closed* | 1 |
 | [#28](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/28) | Documento de conclusão de sprint 0 | *Closed* | 1 |
 | [#42](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/42) | Documentar Prática Ágil  | *Closed* | 1 |
+</div>
 
 Pontos Planejados Concluídos: 17
 
