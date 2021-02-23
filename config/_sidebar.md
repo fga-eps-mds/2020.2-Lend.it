@@ -10,6 +10,7 @@
   - [**Brainstorming**](_docs/produto/brainstorming.md)
   - [**Revisão**](_docs/produto/revisao.md)
   - [**Sequenciador**](_docs/produto/sequenciador.md)
+  - [**Canvas MVP**](_docs/produto/canvas.md)
   - [**Pesquisa de Mercado**](_docs/produto/pesquisa_mercado.md)
   - [**Pesquisa Ambiental**](_docs/produto/pesquisa_ambiental.md)
   - [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)

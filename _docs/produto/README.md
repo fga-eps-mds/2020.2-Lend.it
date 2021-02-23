@@ -21,3 +21,7 @@
 ### 10. [**Brainstorming**](_docs/produto/brainstorming.md)
 
 ### 11. [**Revisão**](_docs/produto/revisao.md)
+
+### 12. [**Sequenciador**](_docs/produto/sequenciador.md)
+
+### 13. [**Canvas MVP**](_docs/produto/canvas.md)

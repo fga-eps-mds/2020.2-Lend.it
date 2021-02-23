@@ -1,6 +1,6 @@
-# Sequenciador
+# Canvas MVP
 
-O sequenciador de funcionalidade tem o objetivo de auxiliar a organização das funcionalidades e da sequência de validação incremental do produto.
+O canvas MVP tem o objetivo de auxiliar a equipe a alinhar e definir a estratégia do MVP, a versão mais simples do produto que pode ser disponibilizado para o negócio (produto mínimo) e que possa ser efetivamente ultilizado e validado pelo usuário final (produto viável).
 
 |    Data    | Versão |       Descrição        |  Autor(es)   |
 | :--------: | :----: | :--------------------: | :----------: |
@@ -8,7 +8,7 @@ O sequenciador de funcionalidade tem o objetivo de auxiliar a organização das 
 
 ## Versão 1.0
 
-![](../../assets/img/lean/sequenciador.png)
+![](../../assets/img/lean/canvas.png)
 
 ## Referências
 
