@@ -17,4 +17,7 @@
 ### 8. [**Persona**](_docs/produto/persona.md)
 
 ### 9. [**Jornada do Usuário**](_docs/produto/jornada.md)
+
 ### 10. [**Brainstorming**](_docs/produto/brainstorming.md)
+
+### 11. [**Revisão**](_docs/produto/revisao.md)
