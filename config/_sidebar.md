@@ -5,6 +5,7 @@
   - [**Visão do Produto**](_docs/produto/visao_produto.md)
   - [**Produto é/faz**](_docs/produto/produto_e.md)
   - [**Objetivos do Produto**](_docs/produto/objetivo_produto.md)
+  - [**Persona**](_docs/produto/persona.md)
   - [**Pesquisa de Mercado**](_docs/produto/pesquisa_mercado.md)
   - [**Pesquisa Ambiental**](_docs/produto/pesquisa_ambiental.md)
   - [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)
