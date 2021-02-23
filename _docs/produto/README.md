@@ -11,3 +11,5 @@
 ### 5. [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)
 
 ### 6. [**Produto é/faz**](_docs/produto/produto_e.md)
+
+### 6. [**Objetivos do Produto**](_docs/produto/objetivo_produto.md)
