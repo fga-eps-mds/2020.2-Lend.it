@@ -12,4 +12,8 @@
 
 ### 6. [**Produto é/faz**](_docs/produto/produto_e.md)
 
-### 6. [**Objetivos do Produto**](_docs/produto/objetivo_produto.md)
+### 7. [**Objetivos do Produto**](_docs/produto/objetivo_produto.md)
+
+### 8. [**Persona**](_docs/produto/persona.md)
+
+### 9. [**Jornada do Usuário**](_docs/produto/jornada.md)
