@@ -7,6 +7,7 @@
   - [**Objetivos do Produto**](_docs/produto/objetivo_produto.md)
   - [**Persona**](_docs/produto/persona.md)
   - [**Jornada do Usuário**](_docs/produto/jornada.md)
+  - [**Brainstorming**](_docs/produto/brainstorming.md)
   - [**Pesquisa de Mercado**](_docs/produto/pesquisa_mercado.md)
   - [**Pesquisa Ambiental**](_docs/produto/pesquisa_ambiental.md)
   - [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)
