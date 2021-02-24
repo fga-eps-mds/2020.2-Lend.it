@@ -25,3 +25,4 @@
 ### 13. [**Canvas MVP**](_docs/produto/canvas.md)
 
 ### 14. [**Banchmarking**](_docs/produto/benchmarking.md)
+### 14. [**Curva de Valor**](_docs/produto/curva_valor.md)
