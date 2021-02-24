@@ -2,7 +2,7 @@
 
 - [**Produto**](_docs/produto/README.md)
   - **Lean Inception**
-    - [**Visão do Produto**](_docs/produto/visao_produto.md)
+    - [Visão do Produto](_docs/produto/visao_produto.md)
     - [**Produto é/faz**](_docs/produto/produto_e.md)
     - [**Objetivos do Produto**](_docs/produto/objetivo_produto.md)
     - [**Persona**](_docs/produto/persona.md)
@@ -12,6 +12,7 @@
     - [**Sequenciador**](_docs/produto/sequenciador.md)
     - [**Canvas MVP**](_docs/produto/canvas.md)
   - [**Pesquisa de Mercado**](_docs/produto/pesquisa_mercado.md)
+  - [**Banchmarking**](_docs/produto/benchmarking.md)
   - [**Pesquisa Ambiental**](_docs/produto/pesquisa_ambiental.md)
   - [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)
 - [**Projeto**](_docs/projeto/README.md)

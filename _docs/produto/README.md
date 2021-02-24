@@ -23,3 +23,5 @@
 ### 12. [**Sequenciador**](_docs/produto/sequenciador.md)
 
 ### 13. [**Canvas MVP**](_docs/produto/canvas.md)
+
+### 14. [**Banchmarking**](_docs/produto/benchmarking.md)
