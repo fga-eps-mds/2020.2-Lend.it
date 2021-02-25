@@ -98,7 +98,7 @@ O Diagrama de Pacotes tem como objetivo estruturar hierarquicamente as pastas qu
 
 Segue o diagrama de pacotes do projeto:
 
-![](../../assets/img/doc-arquitetura/diagrama-pacotes.jpg)
+![](../assets/img/doc-arquitetura/diagrama-pacotes.jpg)
 
 Autor: [Vinicius Saturnino](https://github.com/viniciussaturnino)
 
