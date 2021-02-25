@@ -6,6 +6,7 @@
 | 22/02/2021 | 1.0 | Criação do documento | Thais Rebouças |
 | 23/02/2021 | 1.1 | Criação dos tópicos 1, 2 e 3 | Thais Rebouças |
 | 24/02/2021 | 1.2 | Criação dos tópicos 4 e 5 | Thais Rebouças |
+| 25/02/2021 | 1.3 | Adição do Diagrama de Pacotes | Vinicius Saturnino |
 
 
 ## 1. Introdução
@@ -96,6 +97,8 @@ A Visão Lógica mostra como está a organização conceitual do sistema em term
 O Diagrama de Pacotes tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto.
 
 Segue o diagrama de pacotes do projeto:
+
+![](../../assets/img/doc-arquitetura/diagrama-pacotes.jpg)
 
 Autor: [Vinicius Saturnino](https://github.com/viniciussaturnino)
 
