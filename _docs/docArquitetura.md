@@ -5,6 +5,7 @@
 | :- | :- | :- | :- |
 | 22/02/2021 | 1.0 | Criação do documento | Thais Rebouças |
 | 23/02/2021 | 1.1 | Criação dos tópicos 1, 2 e 3 | Thais Rebouças |
+| 24/02/2021 | 1.2 | Criação dos tópicos 4 e 5 | Thais Rebouças |
 
 
 ## 1. Introdução
@@ -24,6 +25,7 @@ As visão contempladas por esse modelo são:
 * Visão de Implantação;
 
 ### 1.3 Definições, Acrônimos e Abreviações
+
 
 
 ### 1.4 Referências
@@ -77,19 +79,24 @@ O Firebase é uma técnologia da Google, portanto, sua integração com o Flutte
 | É necessária a conexão com internet para utilização do App | A aplicação terá suporte somente para Android | A aplicação será desenvolvida em português do Brasil | A equipe possui apenas 10 integrantes | O escopo proposto deve ser terminado até o final da disciplina |
 
 
-## 4. Visão de Implementação
+## 4. Visão de Casos de Uso
+A Visão de Casos de Uso descreve um modelo com alta significância de alto nível em relação às funcionalidades do sistema. Normalmente feito através do Diagrama de Casos de Uso.
 
-### 4.1 Visão Geral
+### 4.1 Diagrama de Casos de Uso
+O Diagrama de Casos de Uso descreve as principais funcionalidades que o sistema pretende ter. Ele é constotuído de atores, que representam os reais usuários do sistema e as funcionalidade do aplicativo proposto.
 
+Segue o diagrama de casos de uso do projeto:
 
-### 4.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
+Autor: [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 
-* Front-End
+## 5. Visão Lógica
+A Visão Lógica mostra como está a organização conceitual do sistema em termos de camadas, pacotes, classes e interfaces.
 
-* Back-End
+### 5.1 Diagrama de Pacotes
+O Diagrama de Pacotes tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto.
 
-### 4.3 Modelagem de Dados
+Segue o diagrama de pacotes do projeto:
 
+Autor: [Vinicius Saturnino](https://github.com/viniciussaturnino)
 
-## 5. Visão de Implantação
 
