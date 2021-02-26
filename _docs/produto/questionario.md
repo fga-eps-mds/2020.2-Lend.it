@@ -8,6 +8,12 @@ Para que a ideia do projeto tivesse uma validação com os usuários, foi feito 
 
 ## Versão 1.0
 
+- Analise geral foi
+- Analise de pessoas que emprestam ->  o que elas emprestariam
+- Analise de pessoas que emprestam e não usariam o app -> motivos
+- Analise de motivos que pessoas não emprestam ->  o que elas emprestariam / não emprestariam
+- Analise de pessoas que não emprestam
+
 
 ## Referências
 
