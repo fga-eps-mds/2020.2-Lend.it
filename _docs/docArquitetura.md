@@ -88,6 +88,8 @@ O Diagrama de Casos de Uso descreve as principais funcionalidades que o sistema 
 
 Segue o diagrama de casos de uso do projeto:
 
+![](../assets/img/doc-arquitetura/Diagrama -CasoUso.jpeg
+
 Autor: [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 
 ## 5. Visão Lógica
@@ -101,5 +103,6 @@ Segue o diagrama de pacotes do projeto:
 ![](../assets/img/doc-arquitetura/diagrama-pacotes.jpg)
 
 Autor: [Vinicius Saturnino](https://github.com/viniciussaturnino)
+
 
 
