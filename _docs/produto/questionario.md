@@ -1,6 +1,6 @@
 # Análise do questionário
 
-Para que a ideia do projeto tivesse uma validação com os usuários, foi feito uma pesquisa psobre o tema. Obtivemos 175 respostas de pessoas de todas as faixas etárias. O questionário foi feito pelo Google Forms e as perguntas feitas e validadas por toda a equipe. Como haviam algumas perguntas discursivas relacionada às opniões dos respondentes, achamos conveniente usar algumas ferramentas de análise textual para que, assim, conseguíssemos obter as principais temáticas das respostas.  
+Para que a ideia do projeto tivesse uma validação com os usuários, foi feito uma pesquisa sobre o tema. Obtivemos 175 respostas de pessoas de todas as faixas etárias. O questionário foi feito pelo Google Forms e as perguntas feitas e validadas por toda a equipe. Como haviam algumas perguntas discursivas relacionada às opniões dos respondentes, achamos conveniente usar algumas ferramentas de análise textual para que, assim, conseguíssemos obter as principais temáticas das respostas.  
 A análise será divida em 3 partes, generalista, do usuário que tem costume de emprestar pertences e usuário que não tem costume de emprestar pertences.  
 |    Data    | Versão |       Descrição        |  Autor(es)   |
 | :--------: | :----: | :--------------------: | :----------: |
@@ -24,14 +24,14 @@ A segunda pergunta do questionário foi "Você tem o costume de emprestar objeto
 Por mais solícito que o indivíduo seja, existe um domínio de objetos que não são cogitados para emprestar para outra pessoa. Essa seção faz parte da pesquisa para que possamos restringir a área de atuação da nossa aplicação.
 ![Não emprestariam](../../assets/img/questionario/nao_emprestaria.png)
 #### Wordcloud
-Foi gerada uma nuvem das palavras mais frequentes mencionadas nessa questão.
+Foi gerada uma nuvem das palavras mais frequentes mencionadas nessa questão. Vale ressaltar que, quanto maior a palavra, mais frequente.
 ![WordCLoud](../../assets/img/questionario/general_nao_emprestaria.png)
 
 ### O que as pessoas emprestariam
 Da mesma maneira que, para definir o domínio da aplicação, é conveniente saber o que o público não emprestaria, o que o público emprestaria também se torna bastante necessário.
 ![Emprestaria](../../assets/img/questionario/emprestaria.png)
 #### Wordcloud
-Foi gerada uma nuvem das palavras mais frequentes mencionadas nessa questão.
+Foi gerada uma nuvem das palavras mais frequentes mencionadas nessa questão. Vale ressaltar que, quanto maior a palavra, mais frequente.
 ![WordCLoud](../../assets/img/questionario/general_emprestaria.png)
 
 ### Adesão da aplicação
@@ -45,7 +45,7 @@ Para o fluxo de pessoas que utilizariam a aplicação proposta anteriormente, in
 
 ### Motivos para não usar a aplicação
 Porém, para as pessoas que disseram que não seriam utilizariam da aplicação proposta, perguntamos os motivos, com a finalidade de mitigação de restrição de público com base na premissa do app.  
-Essas foram as palavras mais mencionadas no campo de texto livre.
+Essas foram as palavras mais mencionadas no campo de texto livre.  
 ![Não Usariam](../../assets/img/questionario/nao_usaria.jpg)
 
 ## Análise de pessoas que possuem o costume de emprestar objetos
@@ -74,6 +74,7 @@ Com o uso da biblioteca Pandas, analisamos a porcentagem de pessoas que tem o n�
 - 68% dos usuários utilizariam o app.
 - 32% dos usuários não utilizariam o app.
 
+**Autor(es)**: Lucas Dutra Ferreira do Nascimento
 
 ## Referências
 
