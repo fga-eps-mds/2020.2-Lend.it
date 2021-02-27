@@ -1,7 +1,7 @@
 <img src="assets/img/logoUnB.png" alt="Logo da UNB" />
 
 - [**Produto**](_docs/produto/README.md)
-  - **Lean Inception**
+  - [**Lean Inception**](_docs/produto/lean_inception.md)
     - [Visão do Produto](_docs/produto/visao_produto.md)
     - [Produto é/faz](_docs/produto/produto_e.md)
     - [Objetivos do Produto](_docs/produto/objetivo_produto.md)
