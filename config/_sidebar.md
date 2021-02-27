@@ -22,6 +22,8 @@
   - [Backlog](_docs/projeto/backlog.md)
   - [Priorização](_docs/projeto/priorizacao.md)
   - [Documento de visão](_docs/projeto/documento_visao.md)
+  - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
+
 - [**Gerência**](_docs/gerência/README.md)
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
