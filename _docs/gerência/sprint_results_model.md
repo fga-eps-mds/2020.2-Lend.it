@@ -22,13 +22,14 @@ Pontos Não Agregados: 0
 
 Explicação em cima dos dados.
 
-![grafico]()
+![burndown](../../../assets/img/sprint_number/burndown.png)
+
 
 ## Velocity
 
 Explicação em cima dos dados.
 
-![grafico]()
+![velocity](../../../assets/img/sprint_number/velocity.png)
 
 ## Riscos
 
