@@ -88,7 +88,7 @@ O Diagrama de Casos de Uso descreve as principais funcionalidades que o sistema 
 
 Segue o diagrama de casos de uso do projeto:
 
-![](../assets/img/doc-arquitetura/Diagrama -CasoUso.jpeg
+![](../assets/img/doc-arquitetura/Diagrama-CasoUso.jpeg
 
 Autor: [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 
