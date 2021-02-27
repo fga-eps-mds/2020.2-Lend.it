@@ -15,39 +15,39 @@ O Protótipo a seguir tem como finalidade condensar todos os brainstorms e fluxo
 
 ### Autenticação - Recuperar senha
 
-![](../../../assets/img/prototipo_media_fidelidade/auth_recuperar_senha.jpg)
+![](../../assets/img/prototipo_media_fidelidade/auth_recuperar_senha.jpg)
 
 **Autores:** [Matheus Monteiro](https://github.com/matheusyanmonteiro), [Vinicius Saturnino](https://github.com/viniciussaturnino), [Youssef Muhamad](https://github.com/youssef-md).
 
 
 ### Home - Endereço - Perfil
 
-![](../../../assets/img/prototipo_media_fidelidade/home_endereco_perfil.jpg)
+![](../../assets/img/prototipo_media_fidelidade/home_endereco_perfil.jpg)
 
 **Autores:** [Matheus Monteiro](https://github.com/matheusyanmonteiro), [Vinicius Saturnino](https://github.com/viniciussaturnino), [Youssef Muhamad](https://github.com/youssef-md).
 
 
 ### Home - Emprestar - Perfil
 
-![](../../../assets/img/prototipo_media_fidelidade/home_emprestar_perfil.jpg)
+![](../../assets/img/prototipo_media_fidelidade/home_emprestar_perfil.jpg)
 
 **Autores:** [Matheus Monteiro](https://github.com/matheusyanmonteiro), [Vinicius Saturnino](https://github.com/viniciussaturnino), [Youssef Muhamad](https://github.com/youssef-md).
 
 ### Home - Pedido - Criar - Editar
 
-![](../../../assets/img/prototipo_media_fidelidade/home_pedido_criar_editar.jpg)
+![](../../assets/img/prototipo_media_fidelidade/home_pedido_criar_editar.jpg)
 
 **Autores:** [Matheus Monteiro](https://github.com/matheusyanmonteiro), [Vinicius Saturnino](https://github.com/viniciussaturnino), [Youssef Muhamad](https://github.com/youssef-md).
 
 ### Home - Emprestados - Perfil
 
-![](../../../assets/img/prototipo_media_fidelidade/home_emprestados_perfil.jpg)
+![](../../assets/img/prototipo_media_fidelidade/home_emprestados_perfil.jpg)
 
 **Autores:** [Matheus Monteiro](https://github.com/matheusyanmonteiro), [Vinicius Saturnino](https://github.com/viniciussaturnino), [Youssef Muhamad](https://github.com/youssef-md).
 
 ### Home - Avisos - Avaliar
 
-![](../../../assets/img/prototipo_media_fidelidade/home_avisos_avaliar.jpg)
+![](../../assets/img/prototipo_media_fidelidade/home_avisos_avaliar.jpg)
 
 **Autores:** [Matheus Monteiro](https://github.com/matheusyanmonteiro), [Vinicius Saturnino](https://github.com/viniciussaturnino), [Youssef Muhamad](https://github.com/youssef-md).
 

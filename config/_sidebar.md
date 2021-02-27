@@ -12,7 +12,7 @@
     - [Sequenciador](_docs/produto/sequenciador.md)
     - [Canvas MVP](_docs/produto/canvas.md)
   - [Pesquisa de Mercado](_docs/produto/pesquisa_mercado.md)
-  - [Banchmarking](_docs/produto/benchmarking.md)
+  - [Benchmarking](_docs/produto/benchmarking.md)
   - [Curva de Valor](_docs/produto/curva_valor.md)
   - [Pesquisa Ambiental](_docs/produto/pesquisa_ambiental.md)
   - [Rich Picture](_docs/produto/rich_picture.md)
