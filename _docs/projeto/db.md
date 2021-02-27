@@ -16,6 +16,8 @@ O DE-R é a representação gráfica e a principal ferramenta de visualização 
 
 ## Diagrama Lógico (DL)
 
+![dl](../../assets/img/dl.png)
+
 **Autores:**
 - [Rogério Júnior](https://github.com/rogerioo)
 - [Thiago Mesquita](https://github.com/thiagompc)
