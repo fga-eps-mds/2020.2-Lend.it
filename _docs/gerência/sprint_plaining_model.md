@@ -15,9 +15,12 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 ## Objetivos   
 
+<div class="full-width">
+
 |     *Issue*      | Titulo |    Pontos   |     *Assign*     |
 |:----------------:|:------:|:-----------:|:----------------:|
 | [#issue_number](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/issue_number) |  |  |  |
+</div>
 
 <b>Total de pontos planejados: ##</b>  
 
