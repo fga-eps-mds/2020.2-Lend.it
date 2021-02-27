@@ -3,12 +3,13 @@
 ## Histórico de revisão
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
-| 22/02/2021 | 1.0 | Criação do documento | Thais Rebouças |
-| 23/02/2021 | 1.1 | Criação dos tópicos 1, 2 e 3 | Thais Rebouças |
-| 24/02/2021 | 1.2 | Criação dos tópicos 4 e 5 | Thais Rebouças |
-| 25/02/2021 | 1.3 | Adição do Diagrama de Pacotes | Vinicius Saturnino |
-| 27/02/2021 | 1.4 | Adição do Diagrama de Caso de Uso | Matheus Monteiro |
-| 27/02/2021 | 1.5 | Remoçao do subtópico 1.3 e modificação do 1.2 | Thais Rebouças |
+| 22/02/2021 | 0.1 | Criação do documento | Thais Rebouças |
+| 23/02/2021 | 0.2 | Criação dos tópicos 1, 2 e 3 | Thais Rebouças |
+| 24/02/2021 | 0.3 | Criação dos tópicos 4 e 5 | Thais Rebouças |
+| 25/02/2021 | 0.4 | Adição do Diagrama de Pacotes | Vinicius Saturnino |
+| 27/02/2021 | 0.5 | Adição do Diagrama de Caso de Uso | Matheus Monteiro |
+| 27/02/2021 | 0.5.1 | Remoçao do subtópico 1.3 e 1.4 e modificação do 1.2 | Thais Rebouças |
+
 
 
 ## 1. Introdução
@@ -23,14 +24,6 @@ As visões contempladas por esse modelo são:
 
 * Visão de Casos de Uso;
 * Visão Lógica;
-
-### 1.4 Referências
-    DONG, Tao. Flutter. [S. l.], 2019. Disponível em: https://medium.com/flutter. Acesso em: 23 fev. 2021.
-
-    FLASK (FRAMEWORK WEB). In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171. Acesso em: 23 fev. 2021.
-
-    NODE.JS. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: https://pt.wikipedia.org/w/index.php?title=Node.js&oldid=55592828. Acesso em: 23 fev. 2021.
-
 
 ## 2. Representação da Arquitetural
 Modelo de representação dos serviços implementados e as interações estabelecidas entre esses serviços, bem como a natureza dessas interações.
@@ -83,7 +76,7 @@ O Diagrama de Casos de Uso descreve as principais funcionalidades que o sistema 
 
 Segue o diagrama de casos de uso do projeto:
 
-![](../assets/img/doc-arquitetura/Diagrama-CasoUso.jpeg)
+![](../../assets/img/doc-arquitetura/Diagrama-CasoUso.jpeg)
 
 Autor: [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 
@@ -95,9 +88,16 @@ O Diagrama de Pacotes tem como objetivo estruturar hierarquicamente as pastas qu
 
 Segue o diagrama de pacotes do projeto:
 
-![](../assets/img/doc-arquitetura/diagrama-pacotes.jpg)
+![](../../assets/img/doc-arquitetura/diagrama-pacotes.jpg)
 
 Autor: [Vinicius Saturnino](https://github.com/viniciussaturnino)
+
+## 6 Referências
+    DONG, Tao. Flutter. [S. l.], 2019. Disponível em: https://medium.com/flutter. Acesso em: 23 fev. 2021.
+
+    FLASK (FRAMEWORK WEB). In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171. Acesso em: 23 fev. 2021.
+
+    NODE.JS. In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: https://pt.wikipedia.org/w/index.php?title=Node.js&oldid=55592828. Acesso em: 23 fev. 2021.
 
 
 
