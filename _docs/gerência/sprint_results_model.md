@@ -7,7 +7,7 @@ Fazer a restrospectiva da *sprint* explicando de forma detalhada qual foi o resu
 
 | *Issue* | Título | *Status* | Pontos |
 | :-----: | :----: | :------: | :----: |
-| [#issue_number](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/issue_number) |  |  |  |
+| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |  |
 
 
 Pontos Planejados Concluídos: 00
@@ -22,13 +22,14 @@ Pontos Não Agregados: 0
 
 Explicação em cima dos dados.
 
-![grafico]()
+![burndown](../../../assets/img/sprint_number/burndown.png)
+
 
 ## Velocity
 
 Explicação em cima dos dados.
 
-![grafico]()
+![velocity](../../../assets/img/sprint_number/velocity.png)
 
 ## Riscos
 
@@ -71,3 +72,5 @@ Breve explicação dos dados
 
 
 ## Avaliação do Scrum Master
+
+**Autor:** [Rogério Júnior](https://github.com/rogerioo)

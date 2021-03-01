@@ -10,3 +10,4 @@
 
 ### 5. [**Documento de Arquitetura**](_docs/projeto/documento_arquitetura.md)
 
+### 5. [Diagramas do Banco de Dados](_docs/projeto/db.md)

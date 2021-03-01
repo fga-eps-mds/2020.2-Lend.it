@@ -8,21 +8,25 @@
 
 ### 5. [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)
 
-### 6. [**Produto é/faz**](_docs/produto/produto_e.md)
+### 6. [**Protótipo de Média Fidelidade**](_docs/produto/prototipo_media_fidelidade.md)
 
-### 7. [**Objetivos do Produto**](_docs/produto/objetivo_produto.md)
+### 7. [**Produto é/faz**](_docs/produto/produto_e.md)
 
-### 8. [**Persona**](_docs/produto/persona.md)
+### 8. [**Objetivos do Produto**](_docs/produto/objetivo_produto.md)
 
-### 9. [**Jornada do Usuário**](_docs/produto/jornada.md)
+### 9. [**Persona**](_docs/produto/persona.md)
 
-### 10. [**Brainstorming**](_docs/produto/brainstorming.md)
+### 10. [**Jornada do Usuário**](_docs/produto/jornada.md)
 
-### 11. [**Revisão**](_docs/produto/revisao.md)
+### 11. [**Brainstorming**](_docs/produto/brainstorming.md)
 
-### 12. [**Sequenciador**](_docs/produto/sequenciador.md)
+### 12. [**Revisão**](_docs/produto/revisao.md)
 
-### 13. [**Canvas MVP**](_docs/produto/canvas.md)
+### 13. [**Sequenciador**](_docs/produto/sequenciador.md)
 
-### 14. [**Banchmarking**](_docs/produto/benchmarking.md)
-### 14. [**Curva de Valor**](_docs/produto/curva_valor.md)
+### 14. [**Canvas MVP**](_docs/produto/canvas.md)
+
+### 15. [**Benchmarking**](_docs/produto/benchmarking.md)
+
+### 16. [**Curva de Valor**](_docs/produto/curva_valor.md)
+
