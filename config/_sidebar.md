@@ -1,7 +1,7 @@
 <img src="assets/img/logoUnB.png" alt="Logo da UNB" />
 
 - [**Produto**](_docs/produto/README.md)
-  - **Lean Inception**
+  - [**Lean Inception**](_docs/produto/lean_inception.md)
     - [Visão do Produto](_docs/produto/visao_produto.md)
     - [Produto é/faz](_docs/produto/produto_e.md)
     - [Objetivos do Produto](_docs/produto/objetivo_produto.md)
@@ -11,10 +11,11 @@
     - [Revisão](_docs/produto/revisao.md)
     - [Sequenciador](_docs/produto/sequenciador.md)
     - [Canvas MVP](_docs/produto/canvas.md)
-  - [Pesquisa de Mercado](_docs/produto/pesquisa_mercado.md)
-  - [Banchmarking](_docs/produto/benchmarking.md)
-  - [Curva de Valor](_docs/produto/curva_valor.md)
   - [Pesquisa Ambiental](_docs/produto/pesquisa_ambiental.md)
+  - [Pesquisa de Mercado](_docs/produto/pesquisa_mercado.md)
+  - [Analise de Questionário](_docs/produto/questionario.md)
+  - [Benchmarking](_docs/produto/benchmarking.md)
+  - [Curva de Valor](_docs/produto/curva_valor.md)
   - [Rich Picture](_docs/produto/rich_picture.md)
   - [Protótipo de Baixa Fidelidade](_docs/produto/prototipo_baixa_fidelidade.md)
   - [Protótipo de Média Fidelidade](_docs/produto/prototipo_media_fidelidade.md)
@@ -28,3 +29,6 @@
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
     - [Resultados](_docs/gerência/sprint0/results.md)
+  - **Sprint 01**
+    - [Planejamento](_docs/gerência/sprint1/plaining.md)
+    - [Resultados](_docs/gerência/sprint1/results.md)
