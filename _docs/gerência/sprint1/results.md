@@ -10,15 +10,15 @@ Foram levantadas as funcionalidades da aplicação e gerado o primeiro rascunho 
 
 | *Issue* | Título | *Status* | Pontos |
 | :-----: | :----: | :------: | :----: |
-| [#18](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/18) | Pesquisa do tema | Concluído | 2 |
-| [#19](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/19) | Brainstorming | Concluído | 3 |
-| [#21](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/21) | Criação do template de documento | Concluído | 1 |
-| [#22](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/22) | Documento de escolha do tema | Concluído | 2 |
-| [#24](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/24) | Pesquisa de mercado para o produto | Concluído | 2 |
-| [#25](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/25) | Pesquisa tema ambiental para o produto | Concluído | 2 |
-| [#27](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/27) | Protótipo de baixa fidelidade | Concluído | 5 |
-| [#31](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/31) | Documento de conclusão de sprint 1 | Concluído | 3 |
-| [#33](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/33) | Documento de planejamento da sprint 1 | Concluído | 3 |
+| [#18](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/18) | Pesquisa do tema | Concluído | 2 |
+| [#19](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/19) | Brainstorming | Concluído | 3 |
+| [#21](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/21) | Criação do template de documento | Concluído | 1 |
+| [#22](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/22) | Documento de escolha do tema | Concluído | 2 |
+| [#24](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/24) | Pesquisa de mercado para o produto | Concluído | 2 |
+| [#25](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/25) | Pesquisa tema ambiental para o produto | Concluído | 2 |
+| [#27](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/27) | Protótipo de baixa fidelidade | Concluído | 5 |
+| [#31](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/31) | Documento de conclusão de sprint 1 | Concluído | 3 |
+| [#33](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/33) | Documento de planejamento da sprint 1 | Concluído | 3 |
 </div>
 
 Pontos Planejados Concluídos: 23
@@ -27,11 +27,11 @@ Pontos de Dívida Concluídos:  0
 
 Pontos Não Agregados: 0
 
-> [_Sprint_ _Backlog_](https://github.com/fga-eps-mds/EPS-2020-2-G1/milestone/2?closed=1)
+> [_Sprint_ _Backlog_](https://github.com/fga-eps-mds/2020.2-Lend.it/milestone/2?closed=1)
 
 ## Burndown
 
-É possível ver que o time ainda não está no ritmo da matéria e que está se adaptando a um projeto complexo como esse junto aos desafios do EAD. Contudo pode-se ver que as tarefas foram entregues, faltando somente as issues [#31](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/31) e [#33](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/33) de documentação da sprint.
+É possível ver que o time ainda não está no ritmo da matéria e que está se adaptando a um projeto complexo como esse junto aos desafios do EAD. Contudo pode-se ver que as tarefas foram entregues, faltando somente as issues [#31](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/31) e [#33](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/33) de documentação da sprint.
 
 ![burndown](../../../assets/img/sprint1/burndown.png)
 

@@ -2,7 +2,7 @@
 
 A sprint 0 foi marcada pelas definições de projeto e pela definição do escopo de atuação. Foi proposto ao time um nicho de trabalho e o escolhido foram as [ODS](https://brasil.un.org/pt-br/sdgs) (Objetivos de Desenvolvimento Sustentável) da ONU. A ritual de escolha, as propostas levantadas pelo time e a vencedora foram disponibilizadas nesse [documento](_docs/produto/themes_vote.md).
 
-Vale ressaltar que este foi o primeiro contato mais próximos dos times de *EPS* e *MDS* pois, apesar de terem combinado o grupo no final do semestre anterior, ainda não tinha tido tanto contato. Dessa forma foi proposto pelo *Scrum Master* duas dinâmicas para quebrar o gelo ([#5](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/5)) na primeira reunião conjunta do time (03/02/2021), momento que foi pedido que:
+Vale ressaltar que este foi o primeiro contato mais próximos dos times de *EPS* e *MDS* pois, apesar de terem combinado o grupo no final do semestre anterior, ainda não tinha tido tanto contato. Dessa forma foi proposto pelo *Scrum Master* duas dinâmicas para quebrar o gelo ([#5](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/5)) na primeira reunião conjunta do time (03/02/2021), momento que foi pedido que:
 
 - Os membros definissem suas expectativas com a matéria em apenas uma palavra
 
@@ -18,23 +18,23 @@ Outro ponto muito abordado nessa sprint foram os dojos, realizado pelo *DevOps*,
 
 | *Issue* | Título | *Status* | Pontos |
 | :-----: | :----: | :------: | :----: |
-| [#4](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/4) | Pull requests educativos | *Closed* | 1 |
-| [#5](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/5) | Dinâmica de quebra gelo | *Closed* | 1 |
-| [#6](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/6) | Dojo Docker | *Closed* | 1 |
-| [#7](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/7) | Quadro de conhecimento | *Closed* | 1 |
-| [#8](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/8) | Práticas ágeis do time: Pareamento | *Closed* | 1 |
-| [#9](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/9) | Práticas ágeis do time: Sprint time box | *Closed* | 1 |
-| [#10](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/10) | Práticas ágeis do time: Definir Rituais do Time | *Closed* | 1 |
-| [#11](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/11) | Praticas de comunidades de software livre | *Closed* | 1 |
-| [#12](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/12) | Práticas ágeis do time: retrospectiva na sprint  | *Closed* | 1 |
-| [#13](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/13) | Práticas ágeis do time: codigo escrito com padroes | *Closed* | 1 |
-| [#14](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/14) | Práticas ágeis do time: Planejamento da sprint | *Closed* | 1 |
-| [#15](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/15) | Práticas ágeis do time: Roadmap da matéria | *Closed* | 1 |
-| [#16](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/16) | Wiki  | *Closed* | 1 |
-| [#20](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/20) | Documento de planejamento da sprint 0  | *Closed* | 1 |
-| [#23](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/23) | Dojo de Git  | *Closed* | 1 |
-| [#28](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/28) | Documento de conclusão de sprint 0 | *Closed* | 1 |
-| [#42](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/42) | Documentar Prática Ágil  | *Closed* | 1 |
+| [#4](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/4) | Pull requests educativos | *Closed* | 1 |
+| [#5](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/5) | Dinâmica de quebra gelo | *Closed* | 1 |
+| [#6](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/6) | Dojo Docker | *Closed* | 1 |
+| [#7](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/7) | Quadro de conhecimento | *Closed* | 1 |
+| [#8](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/8) | Práticas ágeis do time: Pareamento | *Closed* | 1 |
+| [#9](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/9) | Práticas ágeis do time: Sprint time box | *Closed* | 1 |
+| [#10](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/10) | Práticas ágeis do time: Definir Rituais do Time | *Closed* | 1 |
+| [#11](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/11) | Praticas de comunidades de software livre | *Closed* | 1 |
+| [#12](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/12) | Práticas ágeis do time: retrospectiva na sprint  | *Closed* | 1 |
+| [#13](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/13) | Práticas ágeis do time: codigo escrito com padroes | *Closed* | 1 |
+| [#14](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/14) | Práticas ágeis do time: Planejamento da sprint | *Closed* | 1 |
+| [#15](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/15) | Práticas ágeis do time: Roadmap da matéria | *Closed* | 1 |
+| [#16](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/16) | Wiki  | *Closed* | 1 |
+| [#20](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/20) | Documento de planejamento da sprint 0  | *Closed* | 1 |
+| [#23](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/23) | Dojo de Git  | *Closed* | 1 |
+| [#28](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/28) | Documento de conclusão de sprint 0 | *Closed* | 1 |
+| [#42](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/42) | Documentar Prática Ágil  | *Closed* | 1 |
 </div>
 
 Pontos Planejados Concluídos: 17
@@ -43,13 +43,13 @@ Pontos de Dívida Concluídos:  0
 
 Pontos Não Agregados: 0
 
-> [_Sprint_ _Backlog_](https://github.com/fga-eps-mds/EPS-2020-2-G1/milestone/1?closed=1)
+> [_Sprint_ _Backlog_](https://github.com/fga-eps-mds/2020.2-Lend.it/milestone/1?closed=1)
 
 ## Burndown
 
 Por se tratar de uma sprint de ambientação no inicio da sprint as issues haviam sido registradas no *Trello* da equipe e foram transferidas para o *GitHub* do time no dia 06/02, o que explica a queda abrupta de pontos neste dia.
 
-Vale ressaltar que, como o time ainda estava se ambientando ao ritmo do projeto, algumas issues foram fechadas posteriormente. Essas não foram tidas como dívidas pois se tratavam da documentação da sprint ([#20](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/20) e [#28](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/28)) e a issue [#42](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/42) que foi identificada no momento de definição desses documentos que está dentro do contexto da sprint, uma vez que as definições foram feitas nessa sprint.
+Vale ressaltar que, como o time ainda estava se ambientando ao ritmo do projeto, algumas issues foram fechadas posteriormente. Essas não foram tidas como dívidas pois se tratavam da documentação da sprint ([#20](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/20) e [#28](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/28)) e a issue [#42](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/42) que foi identificada no momento de definição desses documentos que está dentro do contexto da sprint, uma vez que as definições foram feitas nessa sprint.
 
 ![grafico](../../../assets/img/sprint0/burndown.png)
 

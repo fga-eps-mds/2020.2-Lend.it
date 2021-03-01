@@ -16,7 +16,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 |     *Issue*      | Titulo |    Pontos   |     *Assign*     |
 |:----------------:|:------:|:-----------:|:----------------:|
-| [#issue_number](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/issue_number) |  |  |  |
+| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |  |
 </div>
 
 <b>Total de pontos planejados: ##</b>  
@@ -25,7 +25,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 |     *Issue*      | Titulo |    Pontos   |
 |:----------------:|:------:|:-----------:|
-| [#issue_number](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/issue_number) |  |  |
+| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |
 
 <b>Total: ##</b> 
 
@@ -33,7 +33,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 |     *Issue*      | Titulo |    Pontos   |
 |:----------------:|:------:|:-----------:|
-| [#issue_number](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/issue_number) |  |  |
+| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |
 ***
 
 <div style="text-align: center"> Total de pontos da <i>sprint</i>: ## </div> <br>

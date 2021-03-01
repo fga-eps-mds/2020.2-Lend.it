@@ -7,7 +7,7 @@ Fazer a restrospectiva da *sprint* explicando de forma detalhada qual foi o resu
 
 | *Issue* | Título | *Status* | Pontos |
 | :-----: | :----: | :------: | :----: |
-| [#issue_number](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/issue_number) |  |  |  |
+| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |  |
 
 
 Pontos Planejados Concluídos: 00
