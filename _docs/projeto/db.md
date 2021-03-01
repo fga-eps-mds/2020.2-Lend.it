@@ -13,11 +13,11 @@ O DE-R é a representação gráfica e a principal ferramenta de visualização 
 
 ## Diagrama Entidade-Relacionamentos (DE-R)
 
-![der](../../assets/img/der.png)
+![der](../../assets/img/db/der.png)
 
 ## Diagrama Lógico (DL)
 
-![dl](../../assets/img/dl.png)
+![dl](../../assets/img/db/dl.png)
 
 **Autores:**
 - [Rogério Júnior](https://github.com/rogerioo)
