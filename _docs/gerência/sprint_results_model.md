@@ -72,3 +72,5 @@ Breve explicação dos dados
 
 
 ## Avaliação do Scrum Master
+
+**Autor:** [Rogério Júnior](https://github.com/rogerioo)

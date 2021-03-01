@@ -63,3 +63,5 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 - [Thais Rebouças](https://github.com/Thais-ra)
 - [Thiago Mesquita](https://github.com/thiagompc)
 - [Vinícius Saturnino](https://github.com/viniciussaturnino)
+
+**Autor:** [Rogério Júnior](https://github.com/rogerioo)

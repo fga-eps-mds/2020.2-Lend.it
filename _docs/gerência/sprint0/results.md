@@ -74,3 +74,5 @@ Por se tratar de uma *sprint* de ambientação, a partir da análise dos dados, 
 Os dojos serão criados de acordo com a arquitetura e tecnologia definidas para o projeto, de forma que possa melhor guiar e compartilhar o conhecimento entre os times de *EPS* e *MDS*. Os que foram ministrados se mostraram bem positivos.
 
 O time se mostrou bem animado quanto a proposta de Tema escolhida o que é um fator motivador para o time poder desenvolver o projeto. A participação ativa do time de *MDS* é um fator que agrega bastante a essas definições de projeto que afetam todos, pois dessa forma seus pontos de vista e vontades são levados em consideração.
+
+**Autor:** [Rogério Júnior](https://github.com/rogerioo)

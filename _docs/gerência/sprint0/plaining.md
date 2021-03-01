@@ -62,3 +62,5 @@ Sprint dedicada ao pontapé inicial do grupo: escolha da metodologia a ser segui
 - [Thais Rebouças](https://github.com/Thais-ra)
 - [Thiago Mesquita](https://github.com/thiagompc)
 - [Vinícius Saturnino](https://github.com/viniciussaturnino)
+
+**Autor:** [Rogério Júnior](https://github.com/rogerioo)

@@ -52,3 +52,5 @@ Como o acompanhamento da evolução do conhecimento é feito a cada 15 dias, nã
 O time está com um ritmo bom e se mostra bem comprometido com as entregas do projeto. Ainda que não tenham o hábito de fazer um pouco por dia, é possível ver que têm o compromisso de entregar as tarefas dentro do *timebox* da sprint. O fato de não haverem dívidas se mostra bastante positivo.
 
 Pelo andamento da matéria, o time de EPS ainda está confuso com relação a metodologia utilizada para a matéria e ainda não iniciou a fazer os acompanhamentos diários das tarefas (*Daily*) por essa razão.
+
+**Autor:** [Rogério Júnior](https://github.com/rogerioo)
