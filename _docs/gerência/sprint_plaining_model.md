@@ -2,18 +2,15 @@
 
 Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas anteriores, buscando sempre linkar com aquilo que seja relevante às explicações.
 
-## Tamanho da Sprint X      
+## Tamanho da Sprint X
+
 **Início:** 00/00/0000
-   
-**Término:** 00/00/0000   
 
-**Duração:** Sete dias   
+**Término:** 00/00/0000
 
-## Pareamentos   
+**Duração:** Sete dias
 
-- Listar pareamentos e link para issues
-
-## Objetivos   
+## Objetivos
 
 <div class="full-width">
 
@@ -24,7 +21,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 <b>Total de pontos planejados: ##</b>  
 
-### Dívida    
+### Dívida
 
 |     *Issue*      | Titulo |    Pontos   |
 |:----------------:|:------:|:-----------:|
@@ -43,6 +40,10 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
 > [_Sprint_ _Backlog_](https://github.com/)  
+
+## Pareamentos
+
+![pareamentos](../../../assets/img/sprint_number/pareamentos.png)
 
 ## Papeis
 

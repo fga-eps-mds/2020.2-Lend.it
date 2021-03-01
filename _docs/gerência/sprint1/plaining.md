@@ -11,10 +11,6 @@ Para poder começar a dar os passos necessários para construção do backlog, f
 
 **Duração:** Sete dias
 
-## Pareamentos
-
-- Listar pareamentos e link para issues
-
 ## Objetivos
 
 <div class="full-width">
@@ -38,6 +34,12 @@ Para poder começar a dar os passos necessários para construção do backlog, f
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
 > [_Sprint_ _Backlog_](https://github.com/fga-eps-mds/EPS-2020-2-G1/milestone/2?closed=1)  
+
+## Pareamentos
+
+Por se tratar de uma sprint de pesquisas os pareamentos foram feitos ao acaso. Vale ressaltar que a *issue* [#27](https://github.com/fga-eps-mds/EPS-2020-2-G1/issues/27) foi feita em conjunto pelo time para que pudesse ter a visão de cada um sobre o projeto.
+
+![pareamentos](../../../assets/img/sprint1/pareamentos.png)
 
 ## Papeis
 
