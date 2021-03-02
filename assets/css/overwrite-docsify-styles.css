@@ -3,7 +3,7 @@
 }
 
 .sidebar a:hover {
-  color: #006600;
+  color: #FF931F;
 }
 
 h1 a span,
@@ -13,7 +13,7 @@ h4 a span,
 h5 a span,
 h6 a span,
 p strong {
-  color: #133e79 !important;
+  color: #005A7A !important;
 }
 
 p,
