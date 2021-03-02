@@ -10,6 +10,8 @@ Curva de valor é um gráfico criado pelos autores W. Chan Kim e Renee Mauborgne
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrH-wyYGcNMqC0AqqJEbrWyp3lOKedC6wFqK1U3OwvHQ3EgQnO4RS7Jgd6lzrEmw/pubhtml?widget=true&amp;headers=false" width="170px" height="500px"></iframe>
 
+**Autor(es):** Esio Freitas e Matheus Afonso.
+
 ## Referências
 
 - OLIVEIRA, Leandro. Curva de Valor: saiba como definir sua estratégia e se diferenciar da concorrência. [S. l.], 23 mar. 2017. Disponível em: https://capitalsocial.cnt.br/curva-de-valor/. Acesso em: 24 fev. 2021.
