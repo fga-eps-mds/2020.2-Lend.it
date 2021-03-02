@@ -1,16 +1,7 @@
 <img src="assets/img/logoUnB.png" alt="Logo da UNB" />
 
-- [**Produto**](_docs/produto/README.md)
-  - [**Lean Inception**](_docs/produto/lean_inception.md)
-    - [Visão do Produto](_docs/produto/visao_produto.md)
-    - [Produto é/faz](_docs/produto/produto_e.md)
-    - [Objetivos do Produto](_docs/produto/objetivo_produto.md)
-    - [Persona](_docs/produto/persona.md)
-    - [Jornada do Usuário](_docs/produto/jornada.md)
-    - [Brainstorming](_docs/produto/brainstorming.md)
-    - [Revisão](_docs/produto/revisao.md)
-    - [Sequenciador](_docs/produto/sequenciador.md)
-    - [Canvas MVP](_docs/produto/canvas.md)
+- **Produto**
+  - [Lean Inception](_docs/produto/lean_inception.md)
   - [Pesquisa Ambiental](_docs/produto/pesquisa_ambiental.md)
   - [Pesquisa de Mercado](_docs/produto/pesquisa_mercado.md)
   - [Analise de Questionário](_docs/produto/questionario.md)
@@ -19,14 +10,14 @@
   - [Rich Picture](_docs/produto/rich_picture.md)
   - [Protótipo de Baixa Fidelidade](_docs/produto/prototipo_baixa_fidelidade.md)
   - [Protótipo de Média Fidelidade](_docs/produto/prototipo_media_fidelidade.md)
-- [**Projeto**](_docs/projeto/README.md)
+- **Projeto**
   - [Escolha do Tema](_docs/projeto/themes_vote.md)
   - [Backlog](_docs/projeto/backlog.md)
   - [Priorização](_docs/projeto/priorizacao.md)
   - [Documento de visão](_docs/projeto/documento_visao.md)
-  - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
   - [Diagramas do Banco de Dados](_docs/projeto/db.md)
-- [**Gerência**](_docs/gerência/README.md)
+  - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
+- **Gerência**
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
     - [Resultados](_docs/gerência/sprint0/results.md)
