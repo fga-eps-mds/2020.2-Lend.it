@@ -7,4 +7,7 @@
 ### 3. [**Priorização**](_docs/projeto/priorizacao.md)
 
 ### 4. [**Documento de visão**](_docs/projeto/documento_visao.md)
+
+### 5. [**Documento de Arquitetura**](_docs/projeto/documento_arquitetura.md)
+
 ### 5. [Diagramas do Banco de Dados](_docs/projeto/db.md)
