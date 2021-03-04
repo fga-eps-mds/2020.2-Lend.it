@@ -5,7 +5,7 @@
 | Data   | Versão | Modificação  | Autor  |
 | :- | :- | :- | :- |
 | 03/03/2021 | 1.0 | Criação da versão inicial do documento | Thais Rebouças |
-| 04/03/2021 | 1.1 | Adição do tópico 1 e 4, e do subtópico 3.1 | Thais Rebouças |
+| 04/03/2021 | 1.1 | Adição do tópico 1 e 4, e do subtópico 3.1 e 3.3 | Thais Rebouças |
 
 
 # 1 Introdução
@@ -49,12 +49,33 @@ Coloca-se no css, para a utilização das fontes:
 
 # 3.3 Paleta de cores
 
+As cores foram selecionadas observando características do produto e sua finalidade, baseado na psicologia das cores.
+Como a aplicação é baseada fortemente na confiança entre os usuários, por se tratar de empréstimos de objetos pessoais aos vizinhos, a cor primária que melhor se adequa para essa aplicação é o laranja.
+
+![psicologia das cores](../../assets/img/identidade_visual/psicologia_cores.png)
+
+O laranja sendo uma cor derivada do vermelho, tem características muito alegres e estimulantes, acabando por despertar o desejo de ação do usuário. Em relação ao vermelho, o laranja acaba tendo a vantagem de ser mais agradável aos olhos, menos agressivo.
+
+Quando aplicado no mundo do marketing, ele pode significar criatividade, alegria e confiança.
+
+A cor secundária escolhida é a cor complementar à primária no círculo cromático, o azul. Que tem como característica a capacidade de levar segurança e tranquilidade para as pessoas.
+
+![paleta de cores](../../assets/img/identidade_visual/complementar.png)
+
+* Depois de adicionar o preto e o branco o resultado foi:
+
+![paleta de cores](../../assets/img/identidade_visual/primeira.png)
+
+* Removendo o contraste:
+
+![paleta de cores](../../assets/img/identidade_visual/segunda.png)
+
+* Escurecendo um pouco mais as cores, o resultado final foi:
+
 ![paleta de cores](../../assets/img/identidade_visual/paleta_cores.png)
 
-As cores foram selecionadas observando características do produto e sua finalidade. A cor primária foi escolhida baseada na psicologia das cores e a secundária complementar a ela no circulo cromático.
-Como a aplicação é baseada fortemente na confiança entre os usuários, a cor primária que melhor se adequa para essa aplicação é o laranja, e sua complementar azul.
-
-A cor primária é a #FF931F, e a cor secundária #005A7A.
+Primária: #FF931F,
+Secundária: #005A7A.
 
 # 4 Protótipo de Alta Fidelidade
 
