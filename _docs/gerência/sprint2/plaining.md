@@ -32,7 +32,11 @@ Com as funcionalidades levantadas foram definidas as tecnologias a serem usadas 
 | [#45](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/45) | Lean Inception | 8 | [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf) |
 </div>
 
-<b>Total de pontos planejados: 52</b>  
+<b>Total de pontos planejados: 52</b>
+
+***
+
+<div style="text-align: center"> Total de pontos da <i>sprint</i>: 52 </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
 > [_Sprint_ _Backlog_](https://github.com/fga-eps-mds/2020.2-Lend.it/milestone/3?closed=1)  
