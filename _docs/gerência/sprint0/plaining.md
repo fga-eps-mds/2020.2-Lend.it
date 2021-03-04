@@ -32,7 +32,7 @@ Sprint dedicada ao pontapé inicial do grupo: escolha da metodologia a ser segui
 | [#20](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/20) | Documento de planejamento da sprint 0  | 1 | [Rogério Júnior](https://github.com/rogerioo) |
 | [#23](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/23) | Dojo de Git  | 1 | [Lucas Dutra](https://github.com/lucasdutraf) |
 | [#28](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/28) | Documento de conclusão de sprint 0 | 1 | [Rogério Júnior](https://github.com/rogerioo) |
-| [#42](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/42) | Documentar Prática Ágil  | 1 | [Rogério Júnior](https://github.com/rogerioo) |
+| [#41](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/41) | Documentar Prática Ágil  | 1 | [Rogério Júnior](https://github.com/rogerioo) |
 </div>
 
 <b>Total de pontos planejados: 17</b>  
