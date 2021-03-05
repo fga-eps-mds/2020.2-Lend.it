@@ -88,9 +88,25 @@ O Diagrama de Pacotes tem como objetivo estruturar hierarquicamente as pastas qu
 
 Segue o diagrama de pacotes do projeto:
 
-![](../../assets/img/doc-arquitetura/diagrama-pacotes.jpg)
+## Diagrama de pacotes Flutter V1
+![](../../assets/img/doc-arquitetura/diagrama-pacotes-front-v1.png)
 
 Autor: [Vinicius Saturnino](https://github.com/viniciussaturnino)
+
+## Diagrama de pacotes Flask V1
+![](../../assets/img/doc-arquitetura/diagrama-pacotes-back-flask-v1.png)
+
+Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
+
+## Diagrama de pacotes Node.js V1
+![](../../assets/img/doc-arquitetura/diagrama-pacotes-back-node-v1.png)
+
+Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
+
+## Diagrama de pacotes Node.js V2
+![](../../assets/img/doc-arquitetura/diagrama-pacotes-back-node-v2.png)
+
+Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
 
 ## 6 Referências
     DONG, Tao. Flutter. [S. l.], 2019. Disponível em: https://medium.com/flutter. Acesso em: 23 fev. 2021.
