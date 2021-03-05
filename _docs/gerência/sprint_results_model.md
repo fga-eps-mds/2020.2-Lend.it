@@ -4,11 +4,12 @@ Fazer a restrospectiva da *sprint* explicando de forma detalhada qual foi o resu
 
 ## Fechamento da Sprint
 
+<div class="full-width">
 
 | *Issue* | Título | *Status* | Pontos |
 | :-----: | :----: | :------: | :----: |
 | [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |  |
-
+</div>
 
 Pontos Planejados Concluídos: 00
 

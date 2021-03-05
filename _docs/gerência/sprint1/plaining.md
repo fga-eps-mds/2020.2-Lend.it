@@ -30,6 +30,8 @@ Para poder começar a dar os passos necessários para construção do backlog, f
 
 <b>Total de pontos planejados: 23</b>  
 
+***
+
 <div style="text-align: center"> Total de pontos da <i>sprint</i>: 23 </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
