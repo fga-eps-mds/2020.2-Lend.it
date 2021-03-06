@@ -8,6 +8,7 @@
   - [Benchmarking](_docs/produto/benchmarking.md)
   - [Curva de Valor](_docs/produto/curva_valor.md)
   - [Rich Picture](_docs/produto/rich_picture.md)
+  - [Identidade Visual](_docs/produto/identidade_visual.md)
   - [Protótipo de Baixa Fidelidade](_docs/produto/prototipo_baixa_fidelidade.md)
   - [Protótipo de Média Fidelidade](_docs/produto/prototipo_media_fidelidade.md)
 - **Projeto**

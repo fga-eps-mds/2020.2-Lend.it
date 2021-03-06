@@ -14,7 +14,7 @@
 O seguinte documento objetiva informar e detalhar tecnicamente a construção do conjunto de elementos que representam visualmente a aplicação.
 
 # 2 Apresentação da Identidade Visual
-<iframe src="https://docs.google.com/presentation/d/1TAPAFwuNAQyJIA_cmxViIjyWL4yyMdaiHPi4Km1c5iA/edit#slide=id.gc557867b65_0_81" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+<iframe src="https://docs.google.com/presentation/d/1TAPAFwuNAQyJIA_cmxViIjyWL4yyMdaiHPi4Km1c5iA/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>  
 
 # 3 Detalhamento e Justificativas
 
