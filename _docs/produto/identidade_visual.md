@@ -6,13 +6,15 @@
 | :- | :- | :- | :- |
 | 03/03/2021 | 1.0 | Criação da versão inicial do documento | Thais Rebouças |
 | 04/03/2021 | 1.1 | Adição do tópico 1 e 4, e do subtópico 3.1 e 3.3 | Thais Rebouças |
+| 05/03/2021 | 1.2 | Revisão do documento | Youssef Muhamad |
+| 06/03/2021 | 1.3 | Adição do link da apresentação | Thais Rebouças |
 
 
 # 1 Introdução
 O seguinte documento objetiva informar e detalhar tecnicamente a construção do conjunto de elementos que representam visualmente a aplicação.
 
 # 2 Apresentação da Identidade Visual
-
+<iframe src="https://docs.google.com/presentation/d/1TAPAFwuNAQyJIA_cmxViIjyWL4yyMdaiHPi4Km1c5iA/edit#slide=id.gc557867b65_0_81" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
 
 # 3 Detalhamento e Justificativas
 
@@ -27,24 +29,6 @@ As fontes utilizadas na aplicação serão:
  - **Open Sans**(Apache License, Version 2.0), para textos. 
 
 Elas foram escolhidas por serem fontes que passam uma ideia amistosa e que possuem licenças que permitem uso gratuito.
-
-### Uso das fontes
-
-#### Incluindo no HTML
-
-Coloca-se no <head> o seguinte trecho de código:
-
-    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    
-
-#### Incluindo no CSS
-
-Coloca-se no css, para a utilização das fontes:
-
-	font-family: 'Poppins', sans-serif;
-	font-family: 'Open Sans', sans-serif;
 
 
 # 3.3 Paleta de cores
@@ -66,19 +50,10 @@ A cor secundária escolhida é a cor complementar à primária no círculo crom�
 
 ![paleta de cores](../../assets/img/identidade_visual/primeira.png)
 
-* Removendo o contraste:
-
-![paleta de cores](../../assets/img/identidade_visual/segunda.png)
-
 * Escurecendo um pouco mais as cores, o resultado final foi:
 
 ![paleta de cores](../../assets/img/identidade_visual/paleta_cores.png)
 
 Primária: #FF931F,
 Secundária: #005A7A.
-
-# 4 Protótipo de Alta Fidelidade
-
-O protótipo foi desenvolvido utilizando a ferramenta [Figma]() e pode ser conferido na íntegra [aqui]() 
-
 
