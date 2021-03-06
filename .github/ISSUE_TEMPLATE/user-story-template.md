@@ -20,7 +20,7 @@ assignees: ''
 ### Critérios de aceitação:
 
 - Funcionalidade testada;
-- Ter o Storybook
+- CI estar passando
 - ...
 
 ### Observações: (caso não tenha, delete essa parte)
