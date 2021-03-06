@@ -9,6 +9,10 @@
 | 25/02/2021 | 0.4 | Adição do Diagrama de Pacotes | Vinicius Saturnino |
 | 27/02/2021 | 0.5 | Adição do Diagrama de Caso de Uso | Matheus Monteiro |
 | 27/02/2021 | 0.5.1 | Remoçao do subtópico 1.3 e 1.4 e modificação do 1.2 | Thais Rebouças |
+| 05/03/2021 | 0.6 | Inclusão dos diagramas dos pacotes do back-end| Matheus Afonso |
+| 05/03/2021 | 0.7 | Inclusão dos diagramas de contexto | Mateus Maia |
+
+
 
 
 
@@ -108,7 +112,26 @@ Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
 
 Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
 
-## 6 Referências
+## 6. Diagrama de contexto
+
+Diagrama de contexto é uma ferramenta para modelar o escopo através de um diagrama. Em desenvolvimento de sistemas, ele é considerado o diagrama de fluxo de dados de maior nível, isto é, um diagrama que representa todo o sistema. Além disso, ele demonstra como as partes interessadas e outras entidades interagem com o sistema indicando suas entradas e saídas.
+
+## Rascunho diagrama de contexto 
+![](../../assets/img/doc-arquitetura/rascunho-diagrama-contexto.jpg)
+
+Autor: [Thais Rebouças](https://github.com/Thais-ra)
+
+## Diagrama de contexto V1
+![](../../assets/img/doc-arquitetura/Diagrama_contexto_v1.png)
+
+Autor: [Mateus Maia](https://github.com/mateuscunhamaia)
+
+## Diagrama de contexto V2
+![](../../assets/img/doc-arquitetura/Diagrama_contexto_v2.jpg)
+
+Autor: [Mateus Maia](https://github.com/mateuscunhamaia)
+
+## 7 Referências
     DONG, Tao. Flutter. [S. l.], 2019. Disponível em: https://medium.com/flutter. Acesso em: 23 fev. 2021.
 
     FLASK (FRAMEWORK WEB). In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171. Acesso em: 23 fev. 2021.
