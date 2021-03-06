@@ -17,11 +17,14 @@ assignees: ''
 - [ ] Tarefa 2;
 - [ ] Tarefa 3;
 
+### Critérios de pronto:
+
+- ...
+
 ### Critérios de aceitação:
 
 - Funcionalidade testada;
 - CI estar passando
-- ...
 
 ### Observações: (caso não tenha, delete essa parte)
 
