@@ -2,21 +2,22 @@
 
 Para podermos tomar decisões a respeito do nicho que a aplicação, a equipe decidiu por fazer uma breve pesquisa sobre possíveis áreas a serem abordadas, levando em consideração fatores como: impactos ambientas e consumo excessivo.
 
-|    Data    | Versão |       Descrição        |  Autor(es)   |
-| :--------: | :----: | :--------------------: | :----------: |
+|    Data    | Versão |       Descrição        |  Autor(es)  |
+| :--------: | :----: | :--------------------: | :---------: |
 | 20/02/2021 |  1.0   | Adicionando versão 1.0 | Lucas Dutra |
 
 ## Versão 1.0
 
-## Plástico 
-* "Um estudo realizado durante seis anos pelo 5 Gyres Institute estimou que há cerca de 5,25 trilhões de partículas de plástico flutuando no oceano, o que é equivalente a 269 mil toneladas de plástico."
-* "O mais alarmante é que, uma vez no ambiente, os microplásticos absorvem substâncias químicas perigosas e são ingeridos por organismos marinhos, penetrando em toda a cadeia alimentar, inclusive a terrestre. Além de absorverem substâncias químicas perigosas persistentes e bioacumulativas, em muitos casos o próprio microplástico é feito de materiais perigosos para os organismos, como no caso de plásticos que contém bisfenóis."
+## Plástico
+
+- "Um estudo realizado durante seis anos pelo 5 Gyres Institute estimou que há cerca de 5,25 trilhões de partículas de plástico flutuando no oceano, o que é equivalente a 269 mil toneladas de plástico."
+- "O mais alarmante é que, uma vez no ambiente, os microplásticos absorvem substâncias químicas perigosas e são ingeridos por organismos marinhos, penetrando em toda a cadeia alimentar, inclusive a terrestre. Além de absorverem substâncias químicas perigosas persistentes e bioacumulativas, em muitos casos o próprio microplástico é feito de materiais perigosos para os organismos, como no caso de plásticos que contém bisfenóis."
 
 ## Consumo
-* "Asher destaca que é fundamental ter um consumo consciente, que implicaria na redução de resíduos gerados. Para o pesquisador, a reciclagem, por exemplo, tem uma eficácia muito baixa; a reutilização é menos nobre. “O que temos que fazer é não ter que reciclar. O produto deve passar pelos seus diversos usos dentro de seu ciclo de vida e ter o máximo de aproveitamento do material”, defende."
-* "Para tornar a sociedade mais sustentável é preciso mudar velhos hábitos. Ter noção do quanto se gasta, do quanto se desperdiça e fazer um consumo consciente dos produtos. “O sonho de uma sociedade sustentável só será possível a partir do momento em que a sociedade repensar seus modos de consumo, principalmente nas nações mais ricas”, conclui o professor."
-* "Para alcançar o desenvolvimento sustentável e uma qualidade de vida mais elevada para todos, os Estados devem reduzir e eliminar os padrões insustentáveis de produção e consumo, e promover políticas demográficas adequadas."
 
+- "Asher destaca que é fundamental ter um consumo consciente, que implicaria na redução de resíduos gerados. Para o pesquisador, a reciclagem, por exemplo, tem uma eficácia muito baixa; a reutilização é menos nobre. “O que temos que fazer é não ter que reciclar. O produto deve passar pelos seus diversos usos dentro de seu ciclo de vida e ter o máximo de aproveitamento do material”, defende."
+- "Para tornar a sociedade mais sustentável é preciso mudar velhos hábitos. Ter noção do quanto se gasta, do quanto se desperdiça e fazer um consumo consciente dos produtos. “O sonho de uma sociedade sustentável só será possível a partir do momento em que a sociedade repensar seus modos de consumo, principalmente nas nações mais ricas”, conclui o professor."
+- "Para alcançar o desenvolvimento sustentável e uma qualidade de vida mais elevada para todos, os Estados devem reduzir e eliminar os padrões insustentáveis de produção e consumo, e promover políticas demográficas adequadas."
 
 **Autor(es):** Thiago Mesquita e Thais Rebouças.
 

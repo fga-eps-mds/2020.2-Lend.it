@@ -6,10 +6,10 @@ O DE-R é a representação gráfica e a principal ferramenta de visualização 
 
 ## Histórico de Revisões
 
-| Data | Versão | Descrição | Autor(es) |
-| :--: | :----: | :-------: | :-------: |
-| 26/02/2021 | 1.0 | Adiciona primeira versão dos diagramas | Rogério Júnior & Thiago Mesquita |
-| 01/03/2021 | 1.1 | Corrige erro de gramática da tabela RATE e modifica tipos de dados corresponder ao script do banco | Rogério Júnior |
+|    Data    | Versão |                                             Descrição                                              |            Autor(es)             |
+| :--------: | :----: | :------------------------------------------------------------------------------------------------: | :------------------------------: |
+| 26/02/2021 |  1.0   |                               Adiciona primeira versão dos diagramas                               | Rogério Júnior & Thiago Mesquita |
+| 01/03/2021 |  1.1   | Corrige erro de gramática da tabela RATE e modifica tipos de dados corresponder ao script do banco |          Rogério Júnior          |
 
 ## Diagrama Entidade-Relacionamentos (DE-R)
 
@@ -20,5 +20,6 @@ O DE-R é a representação gráfica e a principal ferramenta de visualização 
 ![dl](../../assets/img/db/dl.png)
 
 **Autores:**
+
 - [Rogério Júnior](https://github.com/rogerioo)
 - [Thiago Mesquita](https://github.com/thiagompc)
