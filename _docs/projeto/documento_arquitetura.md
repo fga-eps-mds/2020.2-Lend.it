@@ -90,6 +90,16 @@ O Diagrama de Pacotes tem como objetivo estruturar hierarquicamente as pastas qu
 
 Segue o diagrama de pacotes do projeto:
 
+## Diagrama de pacotes Node.js V2
+![](../../assets/img/doc-arquitetura/diagrama-pacotes-back-node-v2.png)
+
+Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
+
+## Diagrama de pacotes Node.js V1
+![](../../assets/img/doc-arquitetura/diagrama-pacotes-back-node-v1.png)
+
+Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
+
 ## Diagrama de pacotes Flutter V1
 ![](../../assets/img/doc-arquitetura/diagrama-pacotes-front-v1.png)
 
@@ -100,40 +110,33 @@ Autor: [Vinicius Saturnino](https://github.com/viniciussaturnino)
 
 Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
 
-## Diagrama de pacotes Node.js V1
-![](../../assets/img/doc-arquitetura/diagrama-pacotes-back-node-v1.png)
-
-Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
-
-## Diagrama de pacotes Node.js V2
-![](../../assets/img/doc-arquitetura/diagrama-pacotes-back-node-v2.png)
-
-Autor: [Matheus Afonso](https://github.com/matheusafonsouza)
-
 ## 6. Diagrama de contexto
 
 Diagrama de contexto é uma ferramenta para modelar o escopo através de um diagrama. Em desenvolvimento de sistemas, ele é considerado o diagrama de fluxo de dados de maior nível, isto é, um diagrama que representa todo o sistema. Além disso, ele demonstra como as partes interessadas e outras entidades interagem com o sistema indicando suas entradas e saídas.
 
-## Rascunho diagrama de contexto 
-![](../../assets/img/doc-arquitetura/rascunho-diagrama-contexto.jpg)
 
-Autor: [Thais Rebouças](https://github.com/Thais-ra)
+## Diagrama de contexto V4
+![](../../assets/img/doc-arquitetura/Diagrama_contexto_v4.jpg)
 
-## Diagrama de contexto V1
-![](../../assets/img/doc-arquitetura/Diagrama_contexto_v1.png)
+## Diagrama de contexto V3
+![](../../assets/img/doc-arquitetura/Diagrama_contexto_v3.png)
 
 Autor: [Mateus Maia](https://github.com/mateuscunhamaia)
-
 ## Diagrama de contexto V2
 ![](../../assets/img/doc-arquitetura/Diagrama_contexto_v2.jpg)
 
 Autor: [Mateus Maia](https://github.com/mateuscunhamaia)
 
+## Diagrama de contexto V1
+![](../../assets/img/doc-arquitetura/Diagrama_contexto_v1.jpg)
+
+Autor: [Thais Rebouças](https://github.com/Thais-ra)
+
+
+
 ## 7. Visão de Dados (banco)
 
 A Visão de Dados mostra como está arquiteturada a camada de persistência do projeto, mapeando os objetos e os modelos de dados.
-
-
 
 ## Modelo Conceitual
 ![](../../assets/img/doc-arquitetura/Diagrama_Entidade-Relacionamento(DE-R).png)
