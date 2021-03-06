@@ -4,26 +4,22 @@ O Protótipo de Baixa Fidelidade simula algumas características do projeto, sen
 
 ## Histórico de Revisões
 
-|    Data    | Versão |       Descrição        |  Autor(es)   |
-| :--------: | :----: | :--------------------: | :----------: |
+|    Data    | Versão |            Descrição            |    Autor(es)    |
+| :--------: | :----: | :-----------------------------: | :-------------: |
 | 22/02/2021 |  1.0   | Adiciona imagens dos protótipos | Youssef Muhamad |
-
 
 ### [Esio Freitas](https://github.com/EsioFreitas)
 
 ![](../../assets/img/prototipo-baixa-fidelidade/esio_1.jpg)
 
-
 ### [Mateus Cunha](https://github.com/mateuscunhamaia)
 
 ![](../../assets/img/prototipo-baixa-fidelidade/maia_1.jpg)
-
 
 ### [Matheus Afonso](https://github.com/Matheusafonsouza)
 
 ![](../../assets/img/prototipo-baixa-fidelidade/afonso_1.jpg)
 ![](../../assets/img/prototipo-baixa-fidelidade/afonso_2.jpg)
-
 
 ### [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 
@@ -38,7 +34,6 @@ O Protótipo de Baixa Fidelidade simula algumas características do projeto, sen
 ![](../../assets/img/prototipo-baixa-fidelidade/thais_3.jpg)
 ![](../../assets/img/prototipo-baixa-fidelidade/thais_4.jpg)
 
-
 ### [Thiago Mesquita](https://github.com/thiagompc)
 
 ![](../../assets/img/prototipo-baixa-fidelidade/thiago_1.jpg)
@@ -51,8 +46,6 @@ O Protótipo de Baixa Fidelidade simula algumas características do projeto, sen
 ### [Youssef Muhamad](https://github.com/youssef-md)
 
 ![](../../assets/img/prototipo-baixa-fidelidade/youssef_1.jpg)
-
-
 
 ## Referências
 
