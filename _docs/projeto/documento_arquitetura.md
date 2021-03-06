@@ -11,9 +11,7 @@
 | 27/02/2021 | 0.5.1 | Remoçao do subtópico 1.3 e 1.4 e modificação do 1.2 | Thais Rebouças |
 | 05/03/2021 | 0.6 | Inclusão dos diagramas dos pacotes do back-end| Matheus Afonso |
 | 05/03/2021 | 0.7 | Inclusão dos diagramas de contexto | Mateus Maia |
-
-
-
+| 05/03/2021 | 0.8 | Inclusão do DE-R e DLD na visão de dados| Thiago Mesquita |
 
 
 ## 1. Introdução
@@ -131,7 +129,24 @@ Autor: [Mateus Maia](https://github.com/mateuscunhamaia)
 
 Autor: [Mateus Maia](https://github.com/mateuscunhamaia)
 
-## 7 Referências
+## 7. Visão de Dados (banco)
+
+A Visão de Dados mostra como está arquiteturada a camada de persistência do projeto, mapeando os objetos e os modelos de dados.
+
+
+
+## Modelo Conceitual
+![](../../assets/img/doc-arquitetura/Diagrama_Entidade-Relacionamento(DE-R).png)
+
+Autores: [Rogério Júnior](https://github.com/rogerioo), [Thiago Mesquita](https://github.com/thiagompc)
+
+## Modelo Lógico
+![](../../assets/img/doc-arquitetura/Diagrama_Logico(DL).png)
+
+Autores: [Rogério Júnior](https://github.com/rogerioo), [Thiago Mesquita](https://github.com/thiagompc)
+
+
+## 8 Referências
     DONG, Tao. Flutter. [S. l.], 2019. Disponível em: https://medium.com/flutter. Acesso em: 23 fev. 2021.
 
     FLASK (FRAMEWORK WEB). In: WIKIPÉDIA, a enciclopédia livre. Flórida: Wikimedia Foundation, 2019. Disponível em: https://pt.wikipedia.org/w/index.php?title=Flask_(framework_web)&oldid=55329171. Acesso em: 23 fev. 2021.
