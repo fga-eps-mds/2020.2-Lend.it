@@ -15,6 +15,7 @@
   - [Escolha do Tema](_docs/projeto/themes_vote.md)
   - [Backlog](_docs/projeto/backlog.md)
   - [Priorização](_docs/projeto/priorizacao.md)
+  - [**Roadmap**](_docs/projeto/roadmap.md)
   - [Documento de visão](_docs/projeto/documento_visao.md)
   - [Diagramas do Banco de Dados](_docs/projeto/db.md)
   - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
