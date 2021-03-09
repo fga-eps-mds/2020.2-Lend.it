@@ -11,6 +11,7 @@
   - [Identidade Visual](_docs/produto/identidade_visual.md)
   - [Protótipo de Baixa Fidelidade](_docs/produto/prototipo_baixa_fidelidade.md)
   - [Protótipo de Média Fidelidade](_docs/produto/prototipo_media_fidelidade.md)
+  - [Testes de Usabilidade](_docs/produto/teste_usabilidade.md)
 - **Projeto**
   - [Escolha do Tema](_docs/projeto/themes_vote.md)
   - [Backlog](_docs/projeto/backlog.md)
