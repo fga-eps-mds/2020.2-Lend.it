@@ -24,11 +24,11 @@ li {
 
 p {
   text-align: justify !important;
-  text-indent: 30px;
+  /* text-indent: 30px; */
 }
 
 li {
-  margin-left: 30px;
+  /* margin-left: 30px; */
 }
 
 li p {
@@ -37,6 +37,10 @@ li p {
 
 li li {
   margin-left: 0px;
+}
+
+blockquote p {
+  font-size: 16px;
 }
 
 .full-width table th:first-of-type {
