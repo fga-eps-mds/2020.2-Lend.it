@@ -3,7 +3,7 @@
 }
 
 .sidebar a:hover {
-  color: #FF931F;
+  color: #ff931f;
 }
 
 h1 a span,
@@ -13,7 +13,7 @@ h4 a span,
 h5 a span,
 h6 a span,
 p strong {
-  color: #005A7A !important;
+  color: #005a7a !important;
 }
 
 p,
@@ -50,4 +50,23 @@ li li {
 }
 .full-width table th:nth-of-type(4) {
   width: 20%;
+}
+
+.full-width-daily table th:first-of-type {
+  width: 15%;
+}
+.full-width-daily table th:nth-of-type(2) {
+  width: 5%;
+}
+.full-width-daily table th:nth-of-type(3) {
+  width: 5%;
+}
+.full-width-daily table th:nth-of-type(4) {
+  width: 5%;
+}
+.full-width-daily table th:nth-of-type(5) {
+  width: 5%;
+}
+.full-width-daily table th:last-of-type {
+  width: 5%;
 }
