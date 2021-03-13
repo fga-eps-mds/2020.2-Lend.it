@@ -24,7 +24,9 @@ assignees: ''
 - CI estar passando ;
 - Respeitar todas as orientações acima.
 
-### Observações: (caso não tenha, delete essa parte)
+### Observações (caso não tenha, delete essa parte)
+
+### Tela (caso não tenha, delete essa parte)
 
 - A issue deve ser pontuada;
 - A issue deve ser delegada a alguém;
