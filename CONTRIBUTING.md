@@ -67,7 +67,7 @@ git commit
 ```
 * Isso abrirá o editor de texto padrão configurado para o Git. Digite a mensagem de commit, e após **duas** linhas em branco, adicione a co-autoria. Exemplo:
 ```
-Add repo policies
+feat: add repo policies
 
 
 Co-authored-by: Nome Sobrenome <nome@exemplo.com>
