@@ -21,6 +21,7 @@
   - [Documento de visão](_docs/projeto/documento_visao.md)
   - [Diagramas do Banco de Dados](_docs/projeto/db.md)
   - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
+  - [Verificação](_docs/projeto/verificacao.md)
 - **Gerência**
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)

@@ -13,3 +13,5 @@
 ### 6. [**Diagramas do Banco de Dados**](_docs/projeto/db.md)
 
 ### 7. [**Documento de arquitetura**](_docs/projeto/documento_arquitetura.md)
+
+### 8. [**Verificação**](_docs/projeto/verificacao.md)
