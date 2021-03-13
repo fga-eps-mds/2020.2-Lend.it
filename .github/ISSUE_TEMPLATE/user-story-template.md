@@ -17,14 +17,12 @@ assignees: ''
 - [ ] Tarefa 2;
 - [ ] Tarefa 3;
 
-### Critérios de pronto:
-
-- ...
-
 ### Critérios de aceitação:
 
-- Funcionalidade testada;
-- CI estar passando
+- Paulo vinícius deverá conseguir ;
+- Paulo vinícius não deverá conseguir ;
+- CI estar passando ;
+- Respeitar todas as orientações acima.
 
 ### Observações: (caso não tenha, delete essa parte)
 
