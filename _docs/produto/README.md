@@ -17,3 +17,5 @@
 ### 8. [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)
 
 ### 9. [**Protótipo de Média Fidelidade**](_docs/produto/prototipo_media_fidelidade.md)
+
+### 10. [**Protótipo de Alta Fidelidade**](_docs/produto/prototipo_alta_fidelidade.md)
