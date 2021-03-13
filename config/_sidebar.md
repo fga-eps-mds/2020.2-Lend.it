@@ -22,6 +22,7 @@
   - [Diagramas do Banco de Dados](_docs/projeto/db.md)
   - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
   - [Verificação](_docs/projeto/verificacao.md)
+  - [Custo](_docs/projeto/custo.md)
 - **Gerência**
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
