@@ -1,9 +1,15 @@
+# Solve *Título da issue*
+ex (apagar):
+* Solve #80 Criação LendCard 
+* Solve #86 Criação CategoryChip
+
+
 ## Issues
 
-* [Numero da issue] descrição da issue
+* [Numero da issue] - titulo da issue
 
-ex:
-* [US06] Eu, como usuário, gostaria de acessar ....
+ex (apagar):
+* [US06] - Eu, como usuário, gostaria de acessar ....
 
 ## Descrição
 
