@@ -1,4 +1,4 @@
-# Protótipo de Média Fidelidade
+# Protótipo de Alta Fidelidade
 
 Um protótipo de alta fidelidade deve se aproximar ao máximo dos aspectos visuais e funcionais do produto final, incluindo o conteúdo, fluxo de navegação e interações. São muito utilizados para testes e validação com usuários, ou para vender uma ideia.
 
