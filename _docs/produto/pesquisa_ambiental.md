@@ -6,8 +6,6 @@ Para podermos tomar decisões a respeito do nicho que a aplicação, a equipe de
 | :--------: | :----: | :--------------------: | :---------: |
 | 20/02/2021 |  1.0   | Adicionando versão 1.0 | Lucas Dutra |
 
-## Versão 1.0
-
 ## Plástico
 
 - "Um estudo realizado durante seis anos pelo 5 Gyres Institute estimou que há cerca de 5,25 trilhões de partículas de plástico flutuando no oceano, o que é equivalente a 269 mil toneladas de plástico."
