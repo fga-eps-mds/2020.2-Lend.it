@@ -9,6 +9,7 @@
   - [Curva de Valor](_docs/produto/curva_valor.md)
   - [Rich Picture](_docs/produto/rich_picture.md)
   - [Identidade Visual](_docs/produto/identidade_visual.md)
+  - [Design System](_docs/produto/design_system.md)
   - [Protótipo de Baixa Fidelidade](_docs/produto/prototipo_baixa_fidelidade.md)
   - [Protótipo de Média Fidelidade](_docs/produto/prototipo_media_fidelidade.md)
   - [Protótipo de Alta Fidelidade](_docs/produto/prototipo_alta_fidelidade.md)

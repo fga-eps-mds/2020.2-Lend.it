@@ -14,8 +14,14 @@
 
 ### 7. [**Rich Picture**](_docs/produto/rich_picture.md)
 
-### 8. [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)
+### 8. [**Identidade Visual**](_docs/produto/identidade_visual.md)
 
-### 9. [**Protótipo de Média Fidelidade**](_docs/produto/prototipo_media_fidelidade.md)
+### 9. [**Design System**](_docs/produto/design_system.md)
 
-### 10. [**Protótipo de Alta Fidelidade**](_docs/produto/prototipo_alta_fidelidade.md)
+### 10. [**Protótipo de Baixa Fidelidade**](_docs/produto/prototipo_baixa_fidelidade.md)
+
+### 11. [**Protótipo de Média Fidelidade**](_docs/produto/prototipo_media_fidelidade.md)
+
+### 12. [**Protótipo de Alta Fidelidade**](_docs/produto/prototipo_alta_fidelidade.md)
+
+### 13. [**Teste de Usabilidade**](_docs/produto/teste_usabilidade.md)

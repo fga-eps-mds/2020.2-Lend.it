@@ -8,7 +8,7 @@ O Design System é um documento vivo com todos os componentes e propriedades de 
 | :--------: | :----: | :--------------------: | :----------: |
 | 15/03/2021 |  1.0   | Adicionando versão 1.0 | Youssef Muhamad |
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FvfRviColNh96Xd0jRU4jEr%2Flendit-prot%25C3%25B3tipo-alta-fidelidade%3Fnode-id%3D42%253A642" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FvfRviColNh96Xd0jRU4jEr%2Flendit-prot%25C3%25B3tipo-alta-fidelidade%3Fnode-id%3D42%253A642" allowfullscreen></iframe>
 
 **Autores:** [Vinicius Saturnino](https://github.com/viniciussaturnino) e [Youssef Muhamad](https://github.com/youssef-md).
 
