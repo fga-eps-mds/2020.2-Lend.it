@@ -1,0 +1,147 @@
+#!/bin/bash
+# paxmmit V3
+# Create message with proper reference to rep issue based on branch name ddd_issueName
+# Then add all changes in unstaged and commit with the respective message
+# Author: Rogério Júnior
+
+if [ ! -z "$1" -a "$1" != " " ]; then
+   bold=$(tput bold)
+   normal=$(tput sgr0)
+
+   declare number
+   number=$(git branch | grep '*' | grep -o -E '[0-9]+') 
+
+   if [[ $number =~ ^[0-9]+$ ]]; then
+      number=$number
+   else
+      echo -e "${bold}@@@@@@@@@@@@@@@@@@@@@@@@@@@ W A R N I N G @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@${normal}"  
+      echo -e "\nYou're out of a issue branch, the only way of contibuiting to Lend.It Org! :X "
+      echo -e "\nAre you ${bold}absolutely${normal} certain to try to commit in ${bold}$(git branch | grep '*' | sed 's|[*]||g')${normal} ? (it wont pass ${bold}the CI${normal} on Github)\n"
+
+      read -p "(${bold}y/n${normal}) " flag
+
+      if [ $flag == "n" ]; then
+         exit 1
+      fi
+
+      echo ""
+      read -p "What's the ${bold}issue number${normal}? " number
+      echo ""
+   fi
+
+   declare flag="y"
+   declare commit_type=""
+
+   while [ $flag == 'y' ]; do
+      echo -e "What's the type of your commit?\n"
+      echo -e "   ${bold}feat${normal} (A new feature)\n
+   ${bold}fix${normal} (A bug Fix)\n
+   ${bold}docs${normal} (Documentation only changes)\n
+   ${bold}style${normal} (Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc))\n
+   ${bold}refactor${normal} (A code change that neither fixes a bug nor adds a feature)\n
+   ${bold}perf${normal} (A code change that improves performance)\n
+   ${bold}test${normal} (Adding missing tests or correcting existing tests)\n
+   ${bold}build${normal} (Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm))\n
+   ${bold}ci${normal} (Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs))\n
+   ${bold}chore${normal} (Other changes that don't modify src or test files)\n
+   ${bold}revert${normal} (Reverts a previous commit)\n"
+
+      read commit_type
+      echo ""
+
+      if [[ "${commit_type}" =~ feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert ]]; then
+         flag="n"
+      else
+         echo -e "Wrong type.. try again!\n\n"
+      fi
+   done
+
+   message="$commit_type: fga-eps-mds/2020.2-Lend.it#$number $1"
+
+   echo ""
+   read -p "Are you ${bold}pairing${normal}? (${bold}y/n${normal}) " pairing
+   echo ""
+
+   if [ $pairing == "y" ]; then
+
+      declare -A map
+
+      map["e"]="Esio Freitas <esio.gustavo@gmail.com>"
+      map["d"]="Lucas Dutra <ldutra98@gmail.com>"
+      map["ma"]="Mateus Maia <mateusmaiamaia@hotmail.com>"
+      map["af"]="Matheus Afonso <matheusafonsouza@gmail.com>"
+      map["mt"]="Matheus Monteiro <matheusyanmonteiro@gmail.com>"
+      map["r"]="Rogério Júnior <junior.rogerio8@gmail.com>"
+      map["tr"]="Thais Reboucas <rotinasoftware@gmail.com>"
+      map["tm"]="Thiago Mesquita <thiago099carvalho@gmail.com>"
+      map["v"]="Vinicius Saturnino <viniciussaturnino78@gmail.com>"
+      map["y"]="Youssef Muhamad <emaildeyoussefmuhamad@gmail.com>"
+
+      declare flag="y"
+
+      message+="\n\n"
+
+      while [ $flag == 'y' ]; do
+         echo -e "With who?\n"
+         echo -e "   (${bold}e${normal})Esio\n
+   (${bold}d${normal})Dutra\n
+   (${bold}ma${normal})Mateus Maia\n
+   (${bold}af${normal})Matheus Afonso\n
+   (${bold}mt${normal})Matheus Monteiro\n
+   (${bold}r${normal})Rogério\n
+   (${bold}tr${normal})Thais\n
+   (${bold}tm${normal})Thiago\n
+   (${bold}v${normal})Saturnino\n
+   (${bold}y${normal})Youssef"
+         
+         read pairing_name
+         
+         echo ""
+
+         if [[ "${pairing_name}" =~ e|d|ma|af|mt|r|tr|tm|v|y ]]; then
+            message+="\nCo-authored-by: ${map[${pairing_name}]}"
+
+            read -p "Anyone else? (${bold}y/n${normal}) " flag
+            echo ""
+         else
+            echo -e "Wrong acronym.. try again!\n\n"
+         fi
+      done
+
+   fi
+
+   echo -e "That's the correct message ?\n\n\n$message\n\n"
+   read -p "(${bold}y/n${normal}): " flag
+
+   if [ $flag != 'n' ]; then
+      echo ""
+
+      echo -e "What do you want do stage?\n
+   (${bold}e${normal})verything\n
+   (${bold}s${normal})omethings\n
+   (${bold}n${normal})othing"
+      read flag
+
+      echo ""
+
+      if [ $flag == 'e' ]; then
+         git add .
+      else 
+         if [ $flag == 's' ]; then
+            echo -e "Let's ${bold}stage${normal} the changes!\n\n"
+            git add -i
+
+            echo ""
+         fi
+      fi
+
+      git commit -m"$(echo -e $message)"
+      echo -e "\n\n"
+      echo -e "${bold}Everything commited!! ;)"
+   else
+      echo -e "\n\n"
+      echo "${bold}Run me again! :("
+   fi
+else
+   echo -e "Wheres the message?! Run me again"
+fi
