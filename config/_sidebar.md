@@ -1,4 +1,4 @@
-<img src="assets/img/logoUnB.png" alt="Logo da UNB" />
+<img src="assets/img/logo.png" alt="Logo" />
 
 - **Produto**
   - [Lean Inception](_docs/produto/lean_inception.md)

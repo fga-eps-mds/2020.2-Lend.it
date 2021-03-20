@@ -1,9 +1,15 @@
 .sidebar {
   padding: 0 !important;
+  color: white !important;
+}
+
+.app-nav a{
+  color: white;
+  font-size: 1.5rem;
 }
 
 .sidebar a:hover {
-  color: #ff931f;
+  color: red;
 }
 
 h1 a span,
@@ -41,6 +47,14 @@ li li {
 
 blockquote p {
   font-size: 16px;
+}
+
+section .cover {
+  background: #005a7a !important;
+}
+
+section.cover .cover-main {
+  margin: 0;
 }
 
 .full-width table th:first-of-type {

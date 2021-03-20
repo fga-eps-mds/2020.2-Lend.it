@@ -1,1 +1,1 @@
-<h1>Hello World!</h1>
+<img src="../assets/img/capa.png" style="width: 100%"/>
