@@ -23,7 +23,7 @@ O foco dessa _sprint_ foi deixar tudo redondo para a próxima _sprint_ que será
 |  [#69](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/69)  |         Configurar CI front         |   5    |  [Lucas Dutra](https://github.com/lucasdutraf), [Thais Rebouças](https://github.com/Thais-ra) e [Matheus Monteiro](https://github.com/matheusyanmonteiro)  |
 |  [#70](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/70)  |    Prototipo de Alta fidelidade     |   8    |                       [Vinícius Saturnino](https://github.com/viniciussaturnino) e [Youssef Muhamad](https://github.com/youssef-md)                        |
 |  [#72](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/72)  |   Definir arquitetura do projeto    |   8    |                                                      [Youssef Muhamad](https://github.com/youssef-md)                                                      |
-| [#73](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/#73)  |         Roadmap do produto          |   5    |                                                       [Esio Gustavo](https://github.com/EsioFreitas)                                                       |
+|  [#73](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/73)  |         Roadmap do produto          |   5    |                                                       [Esio Gustavo](https://github.com/EsioFreitas)                                                       |
 | [#105](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/105) |      Documentação da Sprint 4       |   5    |                                                       [Rogério Júnior](https://github.com/rogerioo)                                                        |
 
 </div>
