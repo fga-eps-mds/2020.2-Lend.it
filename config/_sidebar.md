@@ -19,7 +19,6 @@
   - [Documento de visão](_docs/projeto/documento_visao.md)
   - [Backlog](_docs/projeto/backlog.md)
   - [Priorização](_docs/projeto/priorizacao.md)
-  - [Roadmap](_docs/projeto/roadmap.md)
   - [Diagramas do Banco de Dados](_docs/projeto/db.md)
   - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
   - [Verificação](_docs/projeto/verificacao.md)
