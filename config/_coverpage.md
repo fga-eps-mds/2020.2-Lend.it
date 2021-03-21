@@ -1,1 +1,1 @@
-<img src="../assets/img/capa.png" style="width: 100%"/>
+<img src="assets/img/capa.png" style="width: 100%"/>
