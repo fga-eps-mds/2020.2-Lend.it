@@ -29,7 +29,7 @@ Pontos Planejados Concluídos: 34
 
 Pontos de Dívida Concluídos: 0
 
-Pontos Não Agregados: 18
+Pontos Não Agregados: 13
 
 > [_Sprint_ _Backlog_](https://github.com/fga-eps-mds/2020.2-Lend.it/milestone/5?closed=1)
 
