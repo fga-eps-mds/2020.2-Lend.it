@@ -11,17 +11,17 @@ Os ambientes foram configurados e a arquitetura foi definida e documentada.
 
 <div class="full-width">
 
-|                             _Issue_                              |               Título                |   _Status_    | Pontos |
-| :--------------------------------------------------------------: | :---------------------------------: | :-----------: | :----: |
-|  [#39](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/39)  |         Dojo Flask Backend          |   Concluído   |   3    |
-|  [#60](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/60)  |    Estruturar ambiente de banco     |   Concluído   |   5    |
-|  [#67](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/67)  | Documento de arquitetura (Evolução) |   Concluído   |   8    |
-|  [#68](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/68)  |         Configurar CI back          |   Concluído   |   5    |
-|  [#69](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/69)  |         Configurar CI front         |   Concluído   |   5    |
-|  [#70](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/70)  |    Prototipo de Alta fidelidade     | Não Concluído |   8    |
-|  [#72](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/72)  |   Definir arquitetura do projeto    |   Concluído   |   8    |
-|  [#73](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/73)  |         Roadmap do produto          | Não Concluído |   5    |
-| [#105](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/105) |      Documentação da Sprint 4       |   Concluído   |   5    |
+|                             _Issue_                              |               Título                |    _Status_     | Pontos |
+| :--------------------------------------------------------------: | :---------------------------------: | :-------------: | :----: |
+|  [#39](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/39)  |         Dojo Flask Backend          |   _Concluído_   |   3    |
+|  [#60](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/60)  |    Estruturar ambiente de banco     |   _Concluído_   |   5    |
+|  [#67](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/67)  | Documento de arquitetura (Evolução) |   _Concluído_   |   8    |
+|  [#68](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/68)  |         Configurar CI back          |   _Concluído_   |   5    |
+|  [#69](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/69)  |         Configurar CI front         |   _Concluído_   |   5    |
+|  [#70](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/70)  |    Prototipo de Alta fidelidade     | _Não Concluído_ |   8    |
+|  [#72](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/72)  |   Definir arquitetura do projeto    |   _Concluído_   |   8    |
+|  [#73](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/73)  |         Roadmap do produto          | _Não Concluído_ |   5    |
+| [#105](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/105) |      Documentação da Sprint 4       |   _Concluído_   |   5    |
 
 </div>
 

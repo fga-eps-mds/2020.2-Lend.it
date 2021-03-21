@@ -6,26 +6,26 @@ _Sprint_ marcada pela início do processo de definição da identidade visual da
 
 <div class="full-width">
 
-|                            _Issue_                             |               Título                | _Status_  | Pontos |
-| :------------------------------------------------------------: | :---------------------------------: | :-------: | :----: |
-| [#38](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/38) |            Questionário             | Concluído |   5    |
-| [#51](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/51) |     Modelagem do banco de dados     | Concluído |   8    |
-| [#52](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/52) |      Documento de arquitetura       | Concluído |   8    |
-| [#53](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/53) |        Teste de usabilidade         | Concluído |   5    |
-| [#54](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/54) |          Identidade visual          | Concluído |   2    |
-| [#55](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/55) |            Benchmarking             | Concluído |   3    |
-| [#56](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/56) |           Escolha do Nome           | Concluído |   1    |
-| [#57](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/57) |           Curva de valor            | Concluído |   3    |
-| [#58](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/58) |      Estruturar ambiente flask      | Concluído |   2    |
-| [#59](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/59) |      Estruturar ambiente Node       | Concluído |   2    |
-| [#75](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/75) | Documento de Planejamento Sprint 03 | Concluído |   3    |
-| [#76](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/76) |  Documento de Conclusão Sprint 03   | Concluído |   3    |
+|                            _Issue_                             |               Título                |  _Status_   | Pontos |
+| :------------------------------------------------------------: | :---------------------------------: | :---------: | :----: |
+| [#38](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/38) |            Questionário             | _Concluído_ |   5    |
+| [#51](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/51) |     Modelagem do banco de dados     | _Concluído_ |   8    |
+| [#52](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/52) |      Documento de arquitetura       | _Concluído_ |   8    |
+| [#53](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/53) |        Teste de usabilidade         | _Concluído_ |   5    |
+| [#54](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/54) |          Identidade visual          | _Concluído_ |   2    |
+| [#55](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/55) |            Benchmarking             | _Concluído_ |   3    |
+| [#56](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/56) |           Escolha do Nome           | _Concluído_ |   1    |
+| [#57](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/57) |           Curva de valor            | _Concluído_ |   3    |
+| [#58](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/58) |      Estruturar ambiente flask      | _Concluído_ |   2    |
+| [#59](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/59) |      Estruturar ambiente Node       | _Concluído_ |   2    |
+| [#75](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/75) | Documento de Planejamento Sprint 03 | _Concluído_ |   3    |
+| [#76](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/76) |  Documento de Conclusão Sprint 03   | _Concluído_ |   3    |
 
 </div>
 
-Pontos Planejados Concluídos: 45
+Pontos Planejados *Concluído*s: 45
 
-Pontos de Dívida Concluídos: 0
+Pontos de Dívida *Concluído*s: 0
 
 Pontos Não Agregados: 0
 
