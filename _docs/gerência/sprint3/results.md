@@ -59,7 +59,7 @@ Em relação as fortalezas o time consegue ver com o empenho bem evidênciado e 
 
 ## Quadro de Conhecimento
 
-Como o acompanhamento da evolução do conhecimento é feito a cada 15 dias, não houveram alterações com relação a s print anterior.
+Como o acompanhamento da evolução do conhecimento é feito a cada 15 dias, não houveram alterações com relação a sprint anterior.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt9zLphgqw_af_Kz6vaOhzGt4M4xnPEfbVTrtfh-CvbbsX1HziKhaXO5_nenI8iGToZQJNdfrqNvoJ/pubhtml?gid=304213891&amp;single=true&amp;widget=true&amp;headers=false" height="600"></iframe>
 
