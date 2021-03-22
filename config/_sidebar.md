@@ -18,7 +18,7 @@
   - [Escolha do Tema](_docs/projeto/themes_vote.md)
   - [Documento de visão](_docs/projeto/documento_visao.md)
   - [Backlog](_docs/projeto/backlog.md)
-  - [Priorização](_docs/projeto/priorizacao.md)
+  - [Priorização e Pontuação](_docs/projeto/priorizacao.md)
   - [Diagramas do Banco de Dados](_docs/projeto/db.md)
   - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
   - [Verificação](_docs/projeto/verificacao.md)
