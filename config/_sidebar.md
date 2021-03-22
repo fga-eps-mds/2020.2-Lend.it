@@ -21,7 +21,7 @@
   - [Priorização e Pontuação](_docs/projeto/priorizacao.md)
   - [Diagramas do Banco de Dados](_docs/projeto/db.md)
   - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
-  - [Verificação](_docs/projeto/verificacao.md)
+  - [Validação](_docs/projeto/verificacao.md)
   - [Custo](_docs/projeto/custo.md)
 - **Gerência**
   - **Sprint 00**
@@ -39,3 +39,6 @@
   - **Sprint 04**
     - [Planejamento](_docs/gerência/sprint4/plaining.md)
     - [Resultados](_docs/gerência/sprint4/results.md)
+  - **Sprint 05**
+    - [Planejamento](_docs/gerência/sprint5/plaining.md)
+    - [Resultados](_docs/gerência/sprint5/results.md)

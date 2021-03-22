@@ -12,6 +12,6 @@
 
 ### 6. [**Documento de arquitetura**](_docs/projeto/documento_arquitetura.md)
 
-### 7. [**Verificação**](_docs/projeto/verificacao.md)
+### 7. [**Validação**](_docs/projeto/verificacao.md)
 
 ### 8. [**TAP**](_docs/projeto/custo.md)
