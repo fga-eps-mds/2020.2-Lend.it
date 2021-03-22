@@ -2,28 +2,29 @@
 
 Sprint marcada pela definição do tema e por pesquisas que reafirmassem e embasassem as escolhas do time.
 
-Foram levantadas as funcionalidades da aplicação e gerado o primeiro rascunho do *backlog*, que vai ser refinado e documentado pelo nosso *PO* durante a próxima sprint.
+Foram levantadas as funcionalidades da aplicação e gerado o primeiro rascunho do _backlog_, que vai ser refinado e documentado pelo nosso _PO_ durante a próxima sprint.
 
 ## Fechamento da Sprint
 
 <div class="full-width">
 
-| *Issue* | Título | *Status* | Pontos |
-| :-----: | :----: | :------: | :----: |
-| [#18](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/18) | Pesquisa do tema | Concluído | 2 |
-| [#19](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/19) | Brainstorming | Concluído | 3 |
-| [#21](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/21) | Criação do template de documento | Concluído | 1 |
-| [#22](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/22) | Documento de escolha do tema | Concluído | 2 |
-| [#24](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/24) | Pesquisa de mercado para o produto | Concluído | 2 |
-| [#25](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/25) | Pesquisa tema ambiental para o produto | Concluído | 2 |
-| [#27](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/27) | Protótipo de baixa fidelidade | Concluído | 5 |
-| [#31](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/31) | Documento de conclusão de sprint 1 | Concluído | 3 |
-| [#33](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/33) | Documento de planejamento da sprint 1 | Concluído | 3 |
+|                            _Issue_                             |                 Título                 |  _Status_   | Pontos |
+| :------------------------------------------------------------: | :------------------------------------: | :---------: | :----: |
+| [#18](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/18) |            Pesquisa do tema            | _Concluído_ |   2    |
+| [#19](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/19) |             Brainstorming              | _Concluído_ |   3    |
+| [#21](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/21) |    Criação do template de documento    | _Concluído_ |   1    |
+| [#22](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/22) |      Documento de escolha do tema      | _Concluído_ |   2    |
+| [#24](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/24) |   Pesquisa de mercado para o produto   | _Concluído_ |   2    |
+| [#25](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/25) | Pesquisa tema ambiental para o produto | _Concluído_ |   2    |
+| [#27](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/27) |     Protótipo de baixa fidelidade      | _Concluído_ |   5    |
+| [#31](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/31) |   Documento de conclusão de sprint 1   | _Concluído_ |   3    |
+| [#33](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/33) | Documento de planejamento da sprint 1  | _Concluído_ |   3    |
+
 </div>
 
 Pontos Planejados Concluídos: 23
 
-Pontos de Dívida Concluídos:  0
+Pontos de Dívida Concluídos: 0
 
 Pontos Não Agregados: 0
 
@@ -49,8 +50,8 @@ Como o acompanhamento da evolução do conhecimento é feito a cada 15 dias, nã
 
 ## Avaliação do Scrum Master
 
-O time está com um ritmo bom e se mostra bem comprometido com as entregas do projeto. Ainda que não tenham o hábito de fazer um pouco por dia, é possível ver que têm o compromisso de entregar as tarefas dentro do *timebox* da sprint. O fato de não haverem dívidas se mostra bastante positivo.
+O time está com um ritmo bom e se mostra bem comprometido com as entregas do projeto. Ainda que não tenham o hábito de fazer um pouco por dia, é possível ver que têm o compromisso de entregar as tarefas dentro do _timebox_ da sprint. O fato de não haverem dívidas se mostra bastante positivo.
 
-Pelo andamento da matéria, o time de EPS ainda está confuso com relação a metodologia utilizada para a matéria e ainda não iniciou a fazer os acompanhamentos diários das tarefas (*Daily*) por essa razão.
+Pelo andamento da matéria, o time de EPS ainda está confuso com relação a metodologia utilizada para a matéria e ainda não iniciou a fazer os acompanhamentos diários das tarefas (_Daily_) por essa razão.
 
 **Autor:** [Rogério Júnior](https://github.com/rogerioo)

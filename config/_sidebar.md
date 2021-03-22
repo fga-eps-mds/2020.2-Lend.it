@@ -39,3 +39,6 @@
   - **Sprint 04**
     - [Planejamento](_docs/gerência/sprint4/plaining.md)
     - [Resultados](_docs/gerência/sprint4/results.md)
+  - **Sprint 05**
+    - [Planejamento](_docs/gerência/sprint5/plaining.md)
+    - [Resultados](_docs/gerência/sprint5/results.md)
