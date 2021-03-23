@@ -37,7 +37,7 @@ Pontos Não Agregados: 8
 
 ## Burndown
 
-o gráfico evidencia, como nas _sprints_ anteriores o padrão do time de finalizar as issues somente no sábado. Vale ressaltar que elas são feitas ao decorrer da semana, como evidencia o gráfico de produtividade.
+O gráfico evidencia, como nas _sprints_ anteriores, o padrão do time de finalizar as issues somente no sábado. Vale ressaltar que elas são feitas ao decorrer da semana, como evidencia o gráfico de produtividade.
 
 ![burndown](../../../assets/img/sprint5/burndown.png)
 
