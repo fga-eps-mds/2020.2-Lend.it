@@ -7,13 +7,12 @@ O projeto utiliza de microsserviços, onde cada serviço abrange uma funcionalid
 Dentro de cada repositório é possível encontrar instruções de configuração e execução, bem como instruções acerca de como contribuir.
 
 <ul>
+    <li><a href="https://github.com/Lend-it/Front" title="Front-end">Front</a> - Serviço responsável pela interface do usuário;</li>
     <li><a href="https://github.com/Lend-it/Rating" title="Organização do Projeto Lend.it">Avaliação</a> - Serviço responsável pelo sistema de feedbacks para os usuários da aplicação;</li>
     <li><a href="https://github.com/Lend-it/User" title="Organização do Projeto Lend.it">Usuário</a> - Serviço que gerencia usuários da aplicação;</li>
     <li><a href="https://github.com/Lend-it/Request" title="Organização do Projeto Lend.it">Pedidos</a> - Serviço que gerencia o sistema de pedidos de empréstimos; </li>
     <li><a href="https://github.com/Lend-it/Gateway" title="Organização do Projeto Lend.it">Gateway</a> - Serviço responsável por intermediar a comunicação entre o <i>Back-end</i> e o <i>Front-end</i>. </li>
 </ul>
-
-A camada de <a href="https://github.com/Lend-it/Front" title="Front-end">interação com o usuário</a> é construída utilizando <i>Flutter</i>.
 
 </p>
    
