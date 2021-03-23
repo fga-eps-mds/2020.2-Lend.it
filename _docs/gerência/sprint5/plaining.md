@@ -16,7 +16,7 @@ Sprint com foco na criação dos componentes básicos que serão usados posterio
 
 |                             _Issue_                              |          Titulo          | Pontos |                                                   _Assign_                                                    |
 | :--------------------------------------------------------------: | :----------------------: | :----: | :-----------------------------------------------------------------------------------------------------------: |
-|  [#42](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/42)  | Documentar Prática Ágil  |   1    |                                 [Rogério Júnior](https://github.com/rogerioo)                                 |
+|  [#41](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/41)  | Documentar Prática Ágil  |   1    |                                 [Rogério Júnior](https://github.com/rogerioo)                                 |
 |  [#79](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/79)  | Colocar theme no projeto |   2    |                               [Youssef Muhamad](https://github.com/youssef-md)                                |
 |  [#80](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/80)  | Criação de design system |   2    |                               [Youssef Muhamad](https://github.com/youssef-md)                                |
 |  [#81](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/81)  |   Configurar CD Flask    |   5    |                                 [Lucas Dutra](https://github.com/lucasdutraf)                                 |

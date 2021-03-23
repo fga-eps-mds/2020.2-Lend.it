@@ -8,7 +8,7 @@ Primeira sprint que os MDS's tiveram contato com o desenvolvimento e conseguiram
 
 |                             _Issue_                              |            Título            |    _Status_     | Pontos |
 | :--------------------------------------------------------------: | :--------------------------: | :-------------: | :----: |
-|  [#42](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/42)  |   Documentar Prática Ágil    | _Não Concluído_ |   1    |
+|  [#41](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/41)  |   Documentar Prática Ágil    | _Não Concluído_ |   1    |
 |  [#70](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/70)  | Prototipo de Alta fidelidade |   _Concluído_   |   8    |
 |  [#73](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/73)  |      Roadmap do produto      |   _Concluído_   |   5    |
 |  [#79](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/79)  |   Colocar theme no projeto   | _Não Concluído_ |   2    |
