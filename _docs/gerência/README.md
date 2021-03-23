@@ -29,3 +29,8 @@
 
 - [Planejamento](_docs/gerência/sprint5/plaining.md)
 - [Resultados](_docs/gerência/sprint5/results.md)
+
+### Sprint 06
+
+- [Planejamento](_docs/gerência/sprint6/plaining.md)
+- [Resultados](_docs/gerência/sprint6/results.md)
