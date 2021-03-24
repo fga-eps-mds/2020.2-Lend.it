@@ -23,6 +23,7 @@
   - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
   - [Validação](_docs/projeto/verificacao.md)
   - [Custo](_docs/projeto/custo.md)
+  - [NFR](_docs/projeto/nfr.md)
 - **Gerência**
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
