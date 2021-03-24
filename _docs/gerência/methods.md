@@ -38,6 +38,14 @@ Ocorrem de segunda a sexta, sendo:
 | Quinta  | 12:00 | Online | Discord do Time |
 | Sexta   | 12:00 | Online | Discord do Time |
 
+## Pareamentos
+
+Proposto pelo _XP_, o desenvolvimento do código será feito em duplas, preferencialmente composta por alguém pouco mais experiente e outra pessoa sem experiência. Esses pareamentos são rotativos para distribuir o conhecimento e para facilitar a união do time.
+
+## Padrões do Time
+
+Para contribuição da comunidade, foi criado um [documento](https://github.com/fga-eps-mds/2020.2-Lend.it/blob/main/CONTRIBUTING.md) que explica como deve ser realizada. Para a padronização de _commits_, poder usar a _linkagem_ da mensagem do _commit_ diretamente na _issue_, oferecido pelo próprio **github**, e automatizar a adição de _commits_ pareados foi criado o [lendmmit](https://github.com/fga-eps-mds/2020.2-Lend.it/blob/main/lendmmit) que é um script bash que conversa com o usuário oferecendo uma maneira facilitada de fazer a mensagem padrão.
+
 ## Comunicação
 
 <table style="border-collapse:collapse;">
