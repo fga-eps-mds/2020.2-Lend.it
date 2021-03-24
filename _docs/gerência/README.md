@@ -1,5 +1,7 @@
 # Gerência
 
+### - [Definição de Metologias](_docs/gerência/methods.md)
+
 ### Sprint 00
 
 - [Planejamento](_docs/gerência/sprint0/plaining.md)

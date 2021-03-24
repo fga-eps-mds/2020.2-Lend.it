@@ -26,6 +26,7 @@
   - [NFR](_docs/projeto/nfr.md)
   - [Documento DevOps](_docs/projeto/documento_devops.md)
 - **Gerência**
+  - [Definição de Metologias](_docs/gerência/methods.md)
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
     - [Resultados](_docs/gerência/sprint0/results.md)
