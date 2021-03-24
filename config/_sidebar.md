@@ -24,6 +24,7 @@
   - [Validação](_docs/projeto/verificacao.md)
   - [Custo](_docs/projeto/custo.md)
   - [NFR](_docs/projeto/nfr.md)
+  - [Documento DevOps](_docs/projeto/documento_devops.md)
 - **Gerência**
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
