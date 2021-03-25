@@ -19,10 +19,11 @@
   - [Documento de visão](_docs/projeto/documento_visao.md)
   - [Backlog](_docs/projeto/backlog.md)
   - [Priorização e Pontuação](_docs/projeto/priorizacao.md)
-  - [Diagramas do Banco de Dados](_docs/projeto/db.md)
-  - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
   - [Validação](_docs/projeto/verificacao.md)
   - [Custo](_docs/projeto/custo.md)
+  - [EVM](_docs/projeto/evm.md)
+  - [Diagramas do Banco de Dados](_docs/projeto/db.md)
+  - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
 - **Gerência**
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
