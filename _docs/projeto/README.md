@@ -15,3 +15,7 @@
 ### 7. [**Validação**](_docs/projeto/verificacao.md)
 
 ### 8. [**TAP**](_docs/projeto/custo.md)
+
+### 9. [**NFR**](_docs/projeto/nfr.md)
+
+### 9. [**Documento DevOps**](_docs/projeto/documento_devops.md)

@@ -24,7 +24,10 @@
   - [EVM](_docs/projeto/evm.md)
   - [Diagramas do Banco de Dados](_docs/projeto/db.md)
   - [Documento de arquitetura](_docs/projeto/documento_arquitetura.md)
+  - [NFR](_docs/projeto/nfr.md)
+  - [Documento DevOps](_docs/projeto/documento_devops.md)
 - **Gerência**
+  - [Definição de Metologias](_docs/gerência/methods.md)
   - **Sprint 00**
     - [Planejamento](_docs/gerência/sprint0/plaining.md)
     - [Resultados](_docs/gerência/sprint0/results.md)
@@ -43,3 +46,6 @@
   - **Sprint 05**
     - [Planejamento](_docs/gerência/sprint5/plaining.md)
     - [Resultados](_docs/gerência/sprint5/results.md)
+  - **Sprint 06**
+    - [Planejamento](_docs/gerência/sprint6/plaining.md)
+    - [Resultados](_docs/gerência/sprint6/results.md)
