@@ -14,6 +14,7 @@
   - [Identidade Visual](_docs/produto/identidade_visual.md)
   - [Design System](_docs/produto/design_system.md)
   - [Protótipo de Alta Fidelidade](_docs/produto/prototipo_alta_fidelidade.md)
+  - [Documento de Releases](_docs/produto/releases.md)
 - **Projeto**
   - [Escolha do Tema](_docs/projeto/themes_vote.md)
   - [Documento de visão](_docs/projeto/documento_visao.md)
