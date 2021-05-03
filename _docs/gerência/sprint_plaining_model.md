@@ -60,7 +60,7 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 **Equipe de Desenvolvimento:**
 
-- [Mateus Maia](https://github.com/mateuscunhamaia)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
 - [Matheus Afonso](https://github.com/Matheusafonsouza)
 - [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 - [Thais Rebouças](https://github.com/Thais-ra)

@@ -19,8 +19,8 @@ Confecção da primeira versão do documento de arquitetura e a modelagem do ban
 | [#38](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/38) |            Questionário             |   5    |                                                             [Lucas Dutra](https://github.com/lucasdutraf)                                                             |
 | [#51](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/51) |     Modelagem do banco de dados     |   8    |                                    [Rogério Júnior](https://github.com/rogerioo) e [Thiago Mesquita](https://github.com/thiagompc)                                    |
 | [#52](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/52) |      Documento de arquitetura       |   8    | [Matheus Monteiro](https://github.com/matheusyanmonteiro), [Thais Rebouças](https://github.com/Thais-ra) e [Vinícius Saturnino](https://github.com/viniciussaturnino) |
-| [#53](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/53) |        Teste de usabilidade         |   5    |    [Mateus Maia](https://github.com/mateuscunhamaia), [Matheus Monteiro](https://github.com/matheusyanmonteiro) e [Youssef Muhamad](https://github.com/youssef-md)    |
-| [#54](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/54) |          Identidade visual          |   2    |          [Mateus Maia](https://github.com/mateuscunhamaia), [Thais Rebouças](https://github.com/Thais-ra) e [Youssef Muhamad](https://github.com/youssef-md)          |
+| [#53](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/53) |        Teste de usabilidade         |   5    |    [Mateus Maia](https://github.com/mateusmaiamaia), [Matheus Monteiro](https://github.com/matheusyanmonteiro) e [Youssef Muhamad](https://github.com/youssef-md)     |
+| [#54](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/54) |          Identidade visual          |   2    |          [Mateus Maia](https://github.com/mateusmaiamaia), [Thais Rebouças](https://github.com/Thais-ra) e [Youssef Muhamad](https://github.com/youssef-md)           |
 | [#55](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/55) |            Benchmarking             |   3    |                                [Esio Gustavo](https://github.com/EsioFreitas) e [Matheus Afonso](https://github.com/Matheusafonsouza)                                 |
 | [#56](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/56) |           Escolha do Nome           |   1    |                                                             [Rogério Júnior](https://github.com/rogerioo)                                                             |
 | [#57](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/57) |           Curva de valor            |   3    |                                [Esio Gustavo](https://github.com/EsioFreitas) e [Matheus Afonso](https://github.com/Matheusafonsouza)                                 |
@@ -57,7 +57,7 @@ Confecção da primeira versão do documento de arquitetura e a modelagem do ban
 
 **Equipe de Desenvolvimento:**
 
-- [Mateus Maia](https://github.com/mateuscunhamaia)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
 - [Matheus Afonso](https://github.com/Matheusafonsouza)
 - [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 - [Thais Rebouças](https://github.com/Thais-ra)

@@ -11,7 +11,7 @@ Um rich picture é um documento que é composto por representações de desenho 
 
 &nbsp;
 
-**Autores:** [Mateus Maia](https://github.com/mateuscunhamaia), [Matheus Afonso](https://github.com/Matheusafonsouza).
+**Autores:** [Mateus Maia](https://github.com/mateusmaiamaia), [Matheus Afonso](https://github.com/Matheusafonsouza).
 
 ## Versão 2.0
 
@@ -43,7 +43,7 @@ Outro erro corrigido foi o de que o usuário cedente poderia recurar solicitaç�
 
 &nbsp;
 
-**Autor:** [Mateus Maia](https://github.com/mateuscunhamaia)
+**Autor:** [Mateus Maia](https://github.com/mateusmaiamaia)
 
 &nbsp;
 
@@ -61,7 +61,7 @@ Outro erro corrigido foi o de que o usuário cedente poderia recurar solicitaç�
 
 &nbsp;
 
-**Autor:** [Mateus Maia](https://github.com/mateuscunhamaia)
+**Autor:** [Mateus Maia](https://github.com/mateusmaiamaia)
 
 &nbsp;
 
@@ -79,7 +79,7 @@ Outro erro corrigido foi o de que o usuário cedente poderia recurar solicitaç�
 
 &nbsp;
 
-**Autor:** [Mateus Maia](https://github.com/mateuscunhamaia)
+**Autor:** [Mateus Maia](https://github.com/mateusmaiamaia)
 
 &nbsp;
 

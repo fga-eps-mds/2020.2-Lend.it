@@ -26,7 +26,7 @@ Com as funcionalidades levantadas foram definidas as tecnologias a serem usadas 
 | [#35](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/35) |           Configurar Zenhub           |   1    |                                                              [Rogério Júnior](https://github.com/rogerioo)                                                               |
 | [#36](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/36) |       Configuração do Frontend        |   3    |                                                              [Esio Gustavo](https://github.com/EsioFreitas)                                                              |
 | [#37](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/37) |       Criar Organização do time       |   1    |                                                              [Esio Gustavo](https://github.com/EsioFreitas)                                                              |
-| [#40](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/40) |             Rich Picture              |   5    |                                [Mateus Maia](https://github.com/mateuscunhamaia) e [Matheus Afonso](https://github.com/Matheusafonsouza)                                 |
+| [#40](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/40) |             Rich Picture              |   5    |                                 [Mateus Maia](https://github.com/mateusmaiamaia) e [Matheus Afonso](https://github.com/Matheusafonsouza)                                 |
 | [#43](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/43) |                Backlog                |   8    |                                                              [Esio Gustavo](https://github.com/EsioFreitas)                                                              |
 | [#44](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/44) |              Priorização              |   5    |                                                              [Esio Gustavo](https://github.com/EsioFreitas)                                                              |
 | [#45](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/45) |            Lean Inception             |   8    |                                      [Esio Gustavo](https://github.com/EsioFreitas) e [Lucas Dutra](https://github.com/lucasdutraf)                                      |
@@ -59,7 +59,7 @@ Com as funcionalidades levantadas foram definidas as tecnologias a serem usadas 
 
 **Equipe de Desenvolvimento:**
 
-- [Mateus Maia](https://github.com/mateuscunhamaia)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
 - [Matheus Afonso](https://github.com/Matheusafonsouza)
 - [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 - [Thais Rebouças](https://github.com/Thais-ra)

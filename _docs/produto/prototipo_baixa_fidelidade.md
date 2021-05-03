@@ -12,7 +12,7 @@ O Protótipo de Baixa Fidelidade simula algumas características do projeto, sen
 
 ![](../../assets/img/prototipo-baixa-fidelidade/esio_1.jpg)
 
-### [Mateus Cunha](https://github.com/mateuscunhamaia)
+### [Mateus Cunha](https://github.com/mateusmaiamaia)
 
 ![](../../assets/img/prototipo-baixa-fidelidade/maia_1.jpg)
 

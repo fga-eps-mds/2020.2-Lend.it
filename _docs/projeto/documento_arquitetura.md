@@ -136,13 +136,13 @@ Diagrama de contexto é uma ferramenta para modelar o escopo através de um diag
 
 ![](../../assets/img/doc-arquitetura/Diagrama_contexto_v3.png)
 
-Autor: [Mateus Maia](https://github.com/mateuscunhamaia)
+Autor: [Mateus Maia](https://github.com/mateusmaiamaia)
 
 ## Diagrama de contexto V2
 
 ![](../../assets/img/doc-arquitetura/Diagrama_contexto_v2.jpg)
 
-Autor: [Mateus Maia](https://github.com/mateuscunhamaia)
+Autor: [Mateus Maia](https://github.com/mateusmaiamaia)
 
 ## Diagrama de contexto V1
 

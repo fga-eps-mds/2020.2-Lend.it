@@ -65,7 +65,7 @@ Ultima _sprint_ que foi usada para finalização da parte de documentação com 
 
 **Equipe de Desenvolvimento:**
 
-- [Mateus Maia](https://github.com/mateuscunhamaia)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
 - [Matheus Afonso](https://github.com/Matheusafonsouza)
 - [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 - [Thais Rebouças](https://github.com/Thais-ra)
