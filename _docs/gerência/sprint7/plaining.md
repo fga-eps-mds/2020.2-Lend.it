@@ -8,7 +8,7 @@ Ultima _sprint_ que foi usada para finalização da parte de documentação com 
 
 **Início:** 21/03/2021
 
-**Término:** 20/03/2021
+**Término:** 27/03/2021
 
 **Duração:** Sete dias
 
