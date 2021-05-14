@@ -1,6 +1,6 @@
 # Resultados Sprint 07
 
-Fazer a restrospectiva da _sprint_ explicando de forma detalhada qual foi o resultado e buscar sempre linkar com aquilo que seja relevante às explicações.
+_Sprint_ reservada para a definição da estrutura básica de manipulação dos empréstimos(_lend_) e definição final da documentação do projeto. É também o primeiro marco da disciplina (**R1**) de entrega.
 
 ## Fechamento da Sprint
 
@@ -32,41 +32,43 @@ Pontos Não Agregados: 12
 
 ## Burndown
 
-Explicação em cima dos dados.
+O gráfico evidencia uma um bom ritmo de trabalho e boa entrega das _issues_ uma vez que os trabalhos foram começados antecipadamente em conta da **R1**
 
 ![burndown](../../../assets/img/sprint7/burndown.png)
 
 ## Velocity
 
-Explicação em cima dos dados.
+É possível ver que a entrega do time continua se mantendo em torno dos 40 pontos.
 
 ![velocity](../../../assets/img/sprint7/velocity.png)
 
 ## Riscos
 
-Explicação sobre os riscos.
+É possível ver que, por conta da **R1**, vários riscos diminuíram, uma vez que os direcionamentos do projeto estavam bem definidos e a sensação de entrega estava em voga no grupo.
 
 <iframe height="909" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGve6AsoRvxahK_yskgryTE1aQStxGh6_ls8RDjuH0DrdupIi26AptTJj64YT4vspgkpsoBKA2MZTd/pubchart?oid=503602102&amp;format=interactive"></iframe>
 
 ## Retrospectiva
 
-Breve resumo sobre a retrospectiva.
+O quadro de empatia revela a visão do grupo em relação aos bom direcionamento do projeto, a um forte senso de coletividade e o bom trabalho que vem sendo executado.
+
+De forma unânime o grupo não viu _fraquezas_ a serem melhoradas e vê que a grande _fortaleza_ que têm é o grupo.
 
 <iframe height="1100" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTj1IyAJxxw19_Cq4hQ_79XLBX_i0j7eiWpLziOrktPOOr_dLWtZRZQcGtoepJl8LQeekhC2erEvBuL/pubhtml?gid=1061776724&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Quadro de Conhecimento
 
-Breve aval sobre o quadro de conhecimento.
+Como o acompanhamento da evolução do conhecimento é feito a cada 15 dias, não houveram alterações com relação a _sprint_ anterior.
 
 <iframe height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt9zLphgqw_af_Kz6vaOhzGt4M4xnPEfbVTrtfh-CvbbsX1HziKhaXO5_nenI8iGToZQJNdfrqNvoJ/pubhtml?gid=1220753955&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ## Quadro de Sentimentos
 
-Breve explicação dos dados
+O time esteve com um bom nível de sentimento que pode ser atribuído a sensação de dever cumprido pela entrega da R1. Com isso as tarefas foram entregues de forma mais contínua e feita aos poucos, como se é esperado.
 
-<iframe height="627" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfmC1hXrOlqXL8ZBsKvi7WktZEdpPOwa5KIKgUKkee2U96ua7g0-bkQL0XZRrCYFGCVWSukZ8ActfD/pubchart?oid=398813935&amp;format=interactive"></iframe>
-<iframe height="509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYTAqkgguUNHq1_L4lwKSwU04oXAoBtm2tj4GrTBb9ND0mj0pBrldy-VPLaeM5fp0KIPX7SbWDH9ia/pubchart?oid=1935748383&amp;format=interactive"></iframe>
-<iframe height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kDZjRAC-EVBplLf7K6B9FQOQW3As3S17ffv4DMo6_dn0-c43DWpxoylg1mpDB41mPCOX0Dcp34bB/pubchart?oid=1244284395&amp;format=interactive"></iframe>
+<iframe height="627" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfmC1hXrOlqXL8ZBsKvi7WktZEdpPOwa5KIKgUKkee2U96ua7g0-bkQL0XZRrCYFGCVWSukZ8ActfD/pubchart?oid=728014553&amp;format=interactive"></iframe>
+<iframe height="509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYTAqkgguUNHq1_L4lwKSwU04oXAoBtm2tj4GrTBb9ND0mj0pBrldy-VPLaeM5fp0KIPX7SbWDH9ia/pubchart?oid=1362897056&amp;format=interactive"></iframe>
+<iframe height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kDZjRAC-EVBplLf7K6B9FQOQW3As3S17ffv4DMo6_dn0-c43DWpxoylg1mpDB41mPCOX0Dcp34bB/pubchart?oid=323697900&amp;format=interactive"></iframe>
 
 ## Registro de Presença nas _Dailies_
 
@@ -84,5 +86,7 @@ Breve explicação dos dados
 |   Youssef   |       ✔       |      ✔      |      ✘       |      ✔       |      ✘      |
 
 ## Avaliação do Scrum Master
+
+A execução dessa _sprint_ pode ser considerada um sucesso, uma vez o time esteve em usa melhor semana de produtividade, como pode ser validado pelas métricas dessa semana. Ainda que houveram dívidas, as mesmas foram agregadas a _sprint_ seguinte de forma a não prejudicar as tarefas já mapeadas.
 
 **Autor:** [Rogério Júnior](https://github.com/rogerioo)
