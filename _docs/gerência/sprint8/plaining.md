@@ -1,8 +1,8 @@
-# Planejamento Sprint 09
+# Planejamento Sprint 08
 
 Semana focada na manipulação dos dados de empréstimo (_lend_) e começo do fluxo de para atender algum pedido. Algumas refatorações foram levantadas para melhorar a integridade do sistema.
 
-## Tamanho da Sprint 09
+## Tamanho da Sprint 08
 
 **Início:** 28/03/2021
 

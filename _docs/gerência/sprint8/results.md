@@ -24,7 +24,7 @@ Fazer a restrospectiva da _sprint_ explicando de forma detalhada qual foi o resu
 
 Pontos Planejados Concluídos: 23
 
-Pontos de Dívida Concluídos: 0
+Pontos de Dívida Concluídos: 7
 
 Pontos Não Agregados: 24
 
