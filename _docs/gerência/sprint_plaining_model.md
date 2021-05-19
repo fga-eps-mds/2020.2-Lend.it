@@ -14,32 +14,35 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 <div class="full-width">
 
-|     *Issue*      | Titulo |    Pontos   |     *Assign*     |
-|:----------------:|:------:|:-----------:|:----------------:|
-| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |  |
+|                                      _Issue_                                       | Titulo | Pontos | _Assign_ |
+| :--------------------------------------------------------------------------------: | :----: | :----: | :------: |
+| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |        |        |          |
+
 </div>
 
-<b>Total de pontos planejados: ##</b>  
+<b>Total de pontos planejados: ##</b>
 
 ### Dívida
 
-|     *Issue*      | Titulo |    Pontos   |
-|:----------------:|:------:|:-----------:|
-| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |
+|                                      _Issue_                                       | Titulo | Pontos | _Assign_ |
+| :--------------------------------------------------------------------------------: | :----: | :----: | :------: |
+| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |        |        |
 
-<b>Total: ##</b> 
+<b>Total: ##</b>
 
-### Issues Acrescentadas Durante a Sprint  
+### Issues Acrescentadas Durante a Sprint
 
-|     *Issue*      | Titulo |    Pontos   |
-|:----------------:|:------:|:-----------:|
-| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |
-***
+|                                      _Issue_                                       | Titulo | Pontos |
+| :--------------------------------------------------------------------------------: | :----: | :----: |
+| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |        |        |
+
+---
 
 <div style="text-align: center"> Total de pontos da <i>sprint</i>: ## </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
-> [_Sprint_ _Backlog_](https://github.com/)  
+
+> [_Sprint_ _Backlog_](https://github.com/)
 
 ## Pareamentos
 
@@ -47,17 +50,17 @@ Explicar de forma detalhada qual foi o foco da sprint, quais foram os dívidas a
 
 ## Papeis
 
-***Scrum Master*:** [Rogério Júnior](https://github.com/rogerioo)
+**_Scrum Master_:** [Rogério Júnior](https://github.com/rogerioo)
 
-***Product Manager*:** [Esio Gustavo](https://github.com/EsioFreitas)
+**_Product Manager_:** [Esio Gustavo](https://github.com/EsioFreitas)
 
-***Arquiteto:*** [Youssef Muhamad](https://github.com/youssef-md)
+**_Arquiteto:_** [Youssef Muhamad](https://github.com/youssef-md)
 
-***DevOps*:** [Lucas Dutra](https://github.com/lucasdutraf)
+**_DevOps_:** [Lucas Dutra](https://github.com/lucasdutraf)
 
 **Equipe de Desenvolvimento:**
 
-- [Mateus Maia](https://github.com/mateuscunhamaia)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
 - [Matheus Afonso](https://github.com/Matheusafonsouza)
 - [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 - [Thais Rebouças](https://github.com/Thais-ra)

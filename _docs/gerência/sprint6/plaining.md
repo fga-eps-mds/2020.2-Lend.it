@@ -16,16 +16,16 @@ Outras tarefas adicionadas foram no sentido de preparar a _gateway_ para o uso d
 
 <div class="full-width">
 
-|                             _Issue_                              |                  Titulo                  | Pontos |                                                    _Assign_                                                    |
-| :--------------------------------------------------------------: | :--------------------------------------: | :----: | :------------------------------------------------------------------------------------------------------------: |
-|  [#93](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/93)  |      [US22] - Visualizar categorias      |   3    |   [Matheus Monteiro](https://github.com/matheusyanmonteiro) e [Thais Rebouças](https://github.com/Thais-ra)    |
-|  [#94](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/94)  |            Configurar gateway            |   3    |                                [Youssef Muhamad](https://github.com/youssef-md)                                |
-|  [#95](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/95)  |      [US09] - Solicitar empréstimo       |   5    |    [Matheus Afonso](https://github.com/Matheusafonsouza) e [Thiago Mesquita](https://github.com/thiagompc)     |
-|  [#96](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/96)  |           [US01] - Criar conta           |   5    | [Mateus Maia](https://github.com/mateuscunhamaia) e [Vinícius Saturnino](https://github.com/viniciussaturnino) |
-|  [#97](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/97)  |    [US07] - Cadastrar geolocalização     |   3    | [Mateus Maia](https://github.com/mateuscunhamaia) e [Vinícius Saturnino](https://github.com/viniciussaturnino) |
-|  [#98](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/98)  |      Script de Automação de Commits      |   3    |                                 [Rogério Júnior](https://github.com/rogerioo)                                  |
-| [#101](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/101) | Adicionar test coverage aos repositórios |   3    |                                 [Lucas Dutra](https://github.com/lucasdutraf)                                  |
-| [#115](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/115) |          Documentação Sprint 06          |   5    |                                 [Rogério Júnior](https://github.com/rogerioo)                                  |
+|                             _Issue_                              |                  Titulo                  | Pontos |                                                   _Assign_                                                    |
+| :--------------------------------------------------------------: | :--------------------------------------: | :----: | :-----------------------------------------------------------------------------------------------------------: |
+|  [#93](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/93)  |      [US22] - Visualizar categorias      |   3    |   [Matheus Monteiro](https://github.com/matheusyanmonteiro) e [Thais Rebouças](https://github.com/Thais-ra)   |
+|  [#94](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/94)  |            Configurar gateway            |   3    |                               [Youssef Muhamad](https://github.com/youssef-md)                                |
+|  [#95](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/95)  |      [US09] - Solicitar empréstimo       |   5    |    [Matheus Afonso](https://github.com/Matheusafonsouza) e [Thiago Mesquita](https://github.com/thiagompc)    |
+|  [#96](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/96)  |           [US01] - Criar conta           |   5    | [Mateus Maia](https://github.com/mateusmaiamaia) e [Vinícius Saturnino](https://github.com/viniciussaturnino) |
+|  [#97](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/97)  |    [US07] - Cadastrar geolocalização     |   3    | [Mateus Maia](https://github.com/mateusmaiamaia) e [Vinícius Saturnino](https://github.com/viniciussaturnino) |
+|  [#98](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/98)  |      Script de Automação de Commits      |   3    |                                 [Rogério Júnior](https://github.com/rogerioo)                                 |
+| [#101](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/101) | Adicionar test coverage aos repositórios |   3    |                                 [Lucas Dutra](https://github.com/lucasdutraf)                                 |
+| [#115](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/115) |          Documentação Sprint 06          |   5    |                                 [Rogério Júnior](https://github.com/rogerioo)                                 |
 
 </div>
 
@@ -65,7 +65,7 @@ Outras tarefas adicionadas foram no sentido de preparar a _gateway_ para o uso d
 
 **Equipe de Desenvolvimento:**
 
-- [Mateus Maia](https://github.com/mateuscunhamaia)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
 - [Matheus Afonso](https://github.com/Matheusafonsouza)
 - [Matheus Monteiro](https://github.com/matheusyanmonteiro)
 - [Thais Rebouças](https://github.com/Thais-ra)
