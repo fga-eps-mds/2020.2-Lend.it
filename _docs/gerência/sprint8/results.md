@@ -1,6 +1,6 @@
 # Resultados Sprint 08
 
-Fazer a restrospectiva da _sprint_ explicando de forma detalhada qual foi o resultado e buscar sempre linkar com aquilo que seja relevante às explicações.
+*Sprint* focada no gerenciamento de solocitações e na confirmação de empréstimos (*lend's*) assim como a visualização do mesmo.
 
 ## Fechamento da Sprint
 
@@ -32,37 +32,37 @@ Pontos Não Agregados: 24
 
 ## Burndown
 
-Explicação em cima dos dados.
+O gráfico evidencia um ritmo semelhante a da *sprint* anterior apesar do inicio de desenvolvimento tardio.
 
 ![burndown](../../../assets/img/sprint8/burndown.png)
 
 ## Velocity
 
-Explicação em cima dos dados.
+É possível ver que a entrega do time continua se mantendo em torno dos 40 pontos.
 
 ![velocity](../../../assets/img/sprint8/velocity.png)
 
 ## Riscos
 
-Explicação sobre os riscos.
+É possível indentificar nesse gráfico que, os riscos se mantiveram praticamento no mesmo nível que na *sprint* anterior.
 
 <iframe height="909" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGve6AsoRvxahK_yskgryTE1aQStxGh6_ls8RDjuH0DrdupIi26AptTJj64YT4vspgkpsoBKA2MZTd/pubchart?oid=1784859995&format=interactive"></iframe>
 
 ## Retrospectiva
 
-Breve resumo sobre a retrospectiva.
+O quadro de empatia revela que o time, de maneira geral, estava se sentido meio cansado e desanimado, por conta do resultado da *sprint*, pois nessa *sprint*, houve um aumento na complexidade do trabalho além de que, de acordo com alguns membros do grupo, houve um mal planejamento das issues.
 
 <iframe height="1100" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTj1IyAJxxw19_Cq4hQ_79XLBX_i0j7eiWpLziOrktPOOr_dLWtZRZQcGtoepJl8LQeekhC2erEvBuL/pubhtml?gid=850500587&single=true"></iframe>
 
 ## Quadro de Conhecimento
 
-Breve aval sobre o quadro de conhecimento.
+O quadro mostra uma pequena melhora de alguns mebros de MDS em relação as tecnologias utilizadas para o desenvolvimento do trabalho e assim como no quadro de tecnologiaa, o time de MDS demonstrou um pequeno aumento no conhecimento do conteúdo de EPS
 
 <iframe height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt9zLphgqw_af_Kz6vaOhzGt4M4xnPEfbVTrtfh-CvbbsX1HziKhaXO5_nenI8iGToZQJNdfrqNvoJ/pubhtml?gid=1611743338&single=true"></iframe>
 
 ## Quadro de Sentimentos
 
-Breve explicação dos dados
+O time esteve com um bom nível de sentimento, apesar de ter sido bem inferior ao que foi na *sprint* passada, isso pode ser atribuído as faltas nas *dailys* e ao feriado do dia 2 de abril que, nesses casos, tem-se o sentimento 0 (neutro) atribuídos a esses dias. 
 
 <iframe height="627" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfmC1hXrOlqXL8ZBsKvi7WktZEdpPOwa5KIKgUKkee2U96ua7g0-bkQL0XZRrCYFGCVWSukZ8ActfD/pubchart?oid=1265201788&format=interactive"></iframe>
 <iframe height="509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYTAqkgguUNHq1_L4lwKSwU04oXAoBtm2tj4GrTBb9ND0mj0pBrldy-VPLaeM5fp0KIPX7SbWDH9ia/pubchart?oid=1005011915&format=interactive"></iframe>
@@ -85,4 +85,4 @@ Breve explicação dos dados
 
 ## Avaliação do Scrum Master
 
-**Autor:** [Rogério Júnior](https://github.com/rogerioo) e [Thais Rebouças](https://github.com/Thais-ra)
+**Autor:** [Rogério Júnior](https://github.com/rogerioo), [Thais Rebouças](https://github.com/Thais-ra), [Mateus Maia](https://github.com/mateusmaiamaia), [Thiago Mesquita](https://github.com/thiagompc) e [Matheus Monteiro](https://github.com/matheusyanmonteiro)
