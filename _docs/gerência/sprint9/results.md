@@ -1,6 +1,6 @@
 # Resultados Sprint 09
 
-Fazer a restrospectiva da *sprint* explicando de forma detalhada qual foi o resultado e buscar sempre linkar com aquilo que seja relevante às explicações.
+*Sprint* focada principalmente no gerenciamento do usuário (editar perfil) e na interação desse usuários com as solicitações de emprétimo.
 
 ## Fechamento da Sprint
 
@@ -32,7 +32,7 @@ Pontos Não Agregados: 24
 
 ## Burndown
 
-Explicação em cima dos dados.
+O gráfico evidencia, como nas *sprints* anteriores, o padrão do time de finalizar as issues somente no sábado. Vale ressaltar que elas são feitas ao decorrer da semana, como evidencia o gráfico de produtividade.
 
 ![burndown](../../../assets/img/sprint9/burndown.png)
 
@@ -45,19 +45,23 @@ Explicação em cima dos dados.
 
 ## Riscos
 
-Explicação sobre os riscos.
+De acordo com o gráfico, podemos assumir que os riscos que tinham maior impacto mativeram a mesma pontuação da *sprint* anterior, porém alguns riscos que antes tinham uma pontuação menor, tiveram uma leve acentuada, principalmente por conta do aumento da complexidade.
 
 ![embed_planilha]()
 
 ## Retrospectiva
 
-Breve resumo sobre a retrospectiva.
+O quadro de empatia mostrou que o time está cada vez mais unido e bem empolgado com o desenvolvimento do projeto, apesar de que, nessa *sprint*, houve um aumento na carga de trabalho do semestre de maneira geral. Alem de que as issues estavam bastante atreladas, o que impediu alguns membros do time de trabalharem, pois era preciso que uma issue estivesse terminada para poder começar a outra.
+
+<iframe height="1100" src="https://docs.google.com/spreadsheets/d/14-4FE5zWRdmAMZf-d78Q09VtxlNoTsXXANuJDr_bht8/edit#gid=720149146"></iframe>
 
 ![embed_planilha]()
 
 ## Quadro de Conhecimento
 
-Breve aval sobre o quadro de conhecimento.
+Como o acompanhamento da evolução do conhecimento é feito a cada 15 dias, não houveram alterações com relação a *sprint* anterior.
+
+<iframe height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt9zLphgqw_af_Kz6vaOhzGt4M4xnPEfbVTrtfh-CvbbsX1HziKhaXO5_nenI8iGToZQJNdfrqNvoJ/pubhtml?gid=1611743338&single=true"></iframe>
 
 ![embed_quadro]()
 
