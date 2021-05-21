@@ -47,42 +47,44 @@ Explicação em cima dos dados.
 
 Explicação sobre os riscos.
 
-![embed_planilha]()
+<iframe height="909" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGve6AsoRvxahK_yskgryTE1aQStxGh6_ls8RDjuH0DrdupIi26AptTJj64YT4vspgkpsoBKA2MZTd/pubchart?oid=275401813&format=interactive")></iframe>
 
 ## Retrospectiva
 
 Breve resumo sobre a retrospectiva.
 
-![embed_planilha]()
+<iframe height="1100" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTj1IyAJxxw19_Cq4hQ_79XLBX_i0j7eiWpLziOrktPOOr_dLWtZRZQcGtoepJl8LQeekhC2erEvBuL/pubhtml?gid=720149146&single=true"></iframe>
 
 ## Quadro de Conhecimento
 
 Breve aval sobre o quadro de conhecimento.
 
-![embed_quadro]()
+<iframe height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQt9zLphgqw_af_Kz6vaOhzGt4M4xnPEfbVTrtfh-CvbbsX1HziKhaXO5_nenI8iGToZQJNdfrqNvoJ/pubhtml?gid=1611743338&single=true"></iframe>
 
 ## Quadro de Sentimentos
 
 Breve explicação dos dados
 
-![embed_graficos]()
+<iframe height="627" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfmC1hXrOlqXL8ZBsKvi7WktZEdpPOwa5KIKgUKkee2U96ua7g0-bkQL0XZRrCYFGCVWSukZ8ActfD/pubchart?oid=414867677&format=interactive"></iframe>
+<iframe height="509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYTAqkgguUNHq1_L4lwKSwU04oXAoBtm2tj4GrTBb9ND0mj0pBrldy-VPLaeM5fp0KIPX7SbWDH9ia/pubchart?oid=708314367&format=interactive"></iframe>
+<iframe height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7kDZjRAC-EVBplLf7K6B9FQOQW3As3S17ffv4DMo6_dn0-c43DWpxoylg1mpDB41mPCOX0Dcp34bB/pubchart?oid=435319136&format=interactive"></iframe>
 
 ## Registro de Presença nas *Dailies*
 
 |     Nome    |   Segunda Feira   | Terça Feira      | Quarta Feira     | Quinta Feira      | Sexta Feira      |
 | :---------: |:-----------------:|:----------------:|:----------------:|:-----------------:|:----------------:|
-| Ésio        |         ✔         |         ✔        |         ✘        |         ✔         |         ✔      |
+| Ésio        |         ✔         |         ✘        |         ✘        |         ✔         |         ✔      |
 | Lucas       |         ✔         |         ✔        |         ✔        |         ✔         |         ✔      |
-| M. Maia     |         ✔         |         ✔        |         ✔        |         ✔         |         ✔      |
-| M. Afonso   |         ✔         |         ✔        |         ✔        |         ✔         |         ✔      |
-| M. Monteiro |         ✔         |         ✔        |         ✘        |         ✔         |         ✔      |
-| Rogério     |         ✔         |         ✔        |         ✔        |         ✔         |         ✘      |
-| Thaís       |         ✔         |         ✘        |         ✔        |         ✔         |         ✔      |
-| Thiago      |         ✔         |         ✔        |         ✔        |         ✔         |         ✔      |
+| M. Maia     |         ✘         |         ✔        |         ✔        |         ✔         |         ✔      |
+| M. Afonso   |         ✔         |         ✘        |         ✔        |         ✔         |         ✔      |
+| M. Monteiro |         ✔         |         ✘        |         ✘        |         ✔         |         ✔      |
+| Rogério     |         ✔         |         ✔        |         ✔        |         ✘         |         ✘      |
+| Thaís       |         ✔         |         ✔        |         ✔        |         ✘         |         ✔      |
+| Thiago      |         ✔         |         ✘        |         ✔        |         ✔         |         ✔      |
 | Vinicius    |         ✔         |         ✔        |         ✔        |         ✔         |         ✔      |
 | Youssef     |         ✘         |         ✔        |         ✔        |         ✔         |         ✔      |
 
 
 ## Avaliação do Scrum Master
 
-**Autor:** [Rogério Júnior](https://github.com/rogerioo)
+**Autor:** [Rogério Júnior](https://github.com/rogerioo) e [Thais Rebouças](https://github.com/thais-ra)
