@@ -22,7 +22,7 @@ _Sprint_ focada no gerenciamento de solicitações e na confirmação de emprés
 
 </div>
 
-Pontos Planejados Concluídos: 23
+Pontos Planejados Concluídos: 16
 
 Pontos de Dívida Concluídos: 7
 

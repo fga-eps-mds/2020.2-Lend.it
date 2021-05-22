@@ -6,6 +6,9 @@ Version: 1.0
 """
 import requests
 
+from collections import defaultdict
+from pprint import PrettyPrinter
+
 query_params = {
     'milestone': input("Milestone NUMBER? "),
     'state': 'all',
@@ -37,6 +40,7 @@ if response.status_code == 200:
 
     data = response.json()
     md_table = ''
+    users_points = defaultdict(int)
 
     for issue in data:
         if not 'pull_request' in issue.keys():
@@ -49,6 +53,9 @@ if response.status_code == 200:
 
                 for idx, user in enumerate(issue['assignees']):
                     users += f"[{user_name[user['login']]}]({user['html_url']})"
+
+                    users_points[user_name[user['login']]
+                                 ] += zenhub['estimate']['value'] / len(issue['assignees'])
 
                     if idx == len(issue['assignees']) - 2:
                         users += ' e '
@@ -63,4 +70,7 @@ if response.status_code == 200:
                         f"Issue {issue['number']} missing estimate! It'll be ignored")
                     continue
 
-    print('\n\n@@@@@@@@@@@@@@@@@@@@@@@@@ RESULT TABLE @@@@@@@@@@@@@@@@@@@@@@@@@\n\n' + md_table)
+    print('\n\n@@@@@@@@@@@@@@@@@@@@@@@@@ RESULT TABLE @@@@@@@@@@@@@@@@@@@@@@@@@\n' + md_table)
+
+    print('\n\n@@@@@@@@@@@@@@@@@@@@@@@ POINTS PER USER @@@@@@@@@@@@@@@@@@@@@@@\n')
+    PrettyPrinter(indent=2).pprint(dict(users_points))
