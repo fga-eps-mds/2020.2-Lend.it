@@ -22,7 +22,7 @@ Fazer a restrospectiva da _sprint_ explicando de forma detalhada qual foi o resu
 
 </div>
 
-Pontos Planejados Concluídos: 23
+Pontos Planejados Concluídos: 16
 
 Pontos de Dívida Concluídos: 7
 
