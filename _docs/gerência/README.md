@@ -46,3 +46,8 @@
 
 - [Planejamento](_docs/gerência/sprint8/plaining.md)
 - [Resultados](_docs/gerência/sprint8/results.md)
+
+### Sprint 09
+
+- [Planejamento](_docs/gerência/sprint9/plaining.md)
+- [Resultados](_docs/gerência/sprint9/results.md)
