@@ -39,7 +39,7 @@ O gráfico evidencia, como nas *sprints* anteriores, o padrão do time de finali
 
 ## Velocity
 
-Explicação em cima dos dados.
+É possível verificar no gráfico que houve uma diminuição nas entregas do time nessa *sprint*, enquanto que o valor esperado para essa entrega era de 40 pontos.
 
 ![velocity](../../../assets/img/sprint9/velocity.png)
 
@@ -67,7 +67,7 @@ Como o acompanhamento da evolução do conhecimento é feito a cada 15 dias, nã
 
 ## Quadro de Sentimentos
 
-Breve explicação dos dados
+O quadro de sentimento mostra um humor bastante positivo do time, podendo ser atribuído como causa, a conclusão de atividades de outras matérias bem como a finalização das issues da *sprint*.
 
 <iframe height="627" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfmC1hXrOlqXL8ZBsKvi7WktZEdpPOwa5KIKgUKkee2U96ua7g0-bkQL0XZRrCYFGCVWSukZ8ActfD/pubchart?oid=414867677&format=interactive"></iframe>
 <iframe height="509" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYTAqkgguUNHq1_L4lwKSwU04oXAoBtm2tj4GrTBb9ND0mj0pBrldy-VPLaeM5fp0KIPX7SbWDH9ia/pubchart?oid=708314367&format=interactive"></iframe>
@@ -91,4 +91,6 @@ Breve explicação dos dados
 
 ## Avaliação do Scrum Master
 
-**Autor:** [Rogério Júnior](https://github.com/rogerioo) e [Thais Rebouças](https://github.com/thais-ra)
+Vejo que o time continua unido. Sempre trabalham juntos e tirando dúvidas entre si. Porém nessa sprint houve uma queda nas entregas, que ocorreu devido ao cansaço dos membros em relação ao semestre e atividades de outras matérias. Em relação a isso, acredito que com o passar da semana, as atividades irão diminuir e as entregas voltarão ao normal.
+
+**Autor:** [Rogério Júnior](https://github.com/rogerioo), [Thais Rebouças](https://github.com/Thais-ra), [Mateus Maia](https://github.com/mateusmaiamaia), [Thiago Mesquita](https://github.com/thiagompc) e [Matheus Monteiro](https://github.com/matheusyanmonteiro)
