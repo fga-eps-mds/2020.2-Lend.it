@@ -52,3 +52,6 @@
   - **Sprint 07**
     - [Planejamento](_docs/gerência/sprint7/plaining.md)
     - [Resultados](_docs/gerência/sprint7/results.md)
+  - **Sprint 08**
+    - [Planejamento](_docs/gerência/sprint8/plaining.md)
+    - [Resultados](_docs/gerência/sprint8/results.md)
