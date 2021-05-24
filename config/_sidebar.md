@@ -61,3 +61,6 @@
   - **Sprint 10**
     - [Planejamento](_docs/gerência/sprint10/plaining.md)
     - [Resultados](_docs/gerência/sprint10/results.md)
+  - **Sprint 11**
+    - [Planejamento](_docs/gerência/sprint11/plaining.md)
+    - [Resultados](_docs/gerência/sprint11/results.md)
