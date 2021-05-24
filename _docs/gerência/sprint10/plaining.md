@@ -67,4 +67,4 @@ _Sprint_ focada na interação entre usuários, em especial no sistema de avalia
 - [Thiago Mesquita](https://github.com/thiagompc)
 - [Vinícius Saturnino](https://github.com/viniciussaturnino)
 
-**Autor:** [Rogério Júnior](https://github.com/rogerioo)
+**Autor:** [Rogério Júnior](https://github.com/rogerioo), [Thais Rebouças](https://github.com/Thais-ra), [Mateus Maia](https://github.com/mateusmaiamaia), [Thiago Mesquita](https://github.com/thiagompc) e [Matheus Monteiro](https://github.com/matheusyanmonteiro)
