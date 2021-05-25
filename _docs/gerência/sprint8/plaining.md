@@ -53,13 +53,13 @@ Semana focada na manipulação dos dados de empréstimo (_lend_) e começo do fl
 
 ## Papeis
 
-**_Scrum Master_:** [Rogério Júnior](https://github.com/rogerioo)
+**_Scrum Master | Analista de Dados_:** [Rogério Júnior](https://github.com/rogerioo)
 
 **_Product Manager_:** [Esio Gustavo](https://github.com/EsioFreitas)
 
 **_Arquiteto:_** [Youssef Muhamad](https://github.com/youssef-md)
 
-**_DevOps_:** [Lucas Dutra](https://github.com/lucasdutraf)
+**_DevOps | Analista de Dados_:** [Lucas Dutra](https://github.com/lucasdutraf)
 
 **Equipe de Desenvolvimento:**
 

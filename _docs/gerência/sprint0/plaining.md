@@ -47,13 +47,13 @@ Sprint dedicada ao pontapé inicial do grupo: escolha da metodologia a ser segui
 
 ## Papeis
 
-**_Scrum Master_:** [Rogério Júnior](https://github.com/rogerioo)
+**_Scrum Master | Analista de Dados_:** [Rogério Júnior](https://github.com/rogerioo)
 
 **_Product Manager_:** [Esio Gustavo](https://github.com/EsioFreitas)
 
 **Arquiteto:** [Youssef Muhamad](https://github.com/youssef-md)
 
-**_DevOps_:** [Lucas Dutra](https://github.com/lucasdutraf)
+**_DevOps | Analista de Dados_:** [Lucas Dutra](https://github.com/lucasdutraf)
 
 **Equipe de Desenvolvimento:**
 
