@@ -63,13 +63,13 @@ Ultima _sprint_ do projeto, focada principalmente nas atividades finais de _anal
 
 ## Papeis
 
-**_Scrum Master_:** [Rogério Júnior](https://github.com/rogerioo)
+**_Scrum Master | Analista de Dados_:** [Rogério Júnior](https://github.com/rogerioo)
 
 **_Product Manager_:** [Esio Gustavo](https://github.com/EsioFreitas)
 
 **_Arquiteto:_** [Youssef Muhamad](https://github.com/youssef-md)
 
-**_DevOps_:** [Lucas Dutra](https://github.com/lucasdutraf)
+**_DevOps | Analista de Dados_:** [Lucas Dutra](https://github.com/lucasdutraf)
 
 **Equipe de Desenvolvimento:**
 
@@ -80,4 +80,4 @@ Ultima _sprint_ do projeto, focada principalmente nas atividades finais de _anal
 - [Thiago Mesquita](https://github.com/thiagompc)
 - [Vinícius Saturnino](https://github.com/viniciussaturnino)
 
-**Autor:** [Rogério Júnior](https://github.com/rogerioo)
+**Autor:** [Rogério Júnior](https://github.com/rogerioo), [Mateus Maia](https://github.com/mateusmaiamaia) e [Thiago Mesquita](https://github.com/thiagompc)
