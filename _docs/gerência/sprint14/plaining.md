@@ -51,7 +51,7 @@ Ultima _sprint_ do projeto, focada principalmente nas atividades finais de _anal
 
 ---
 
-<div style="text-align: center"> Total de pontos da <i>sprint</i>: ## </div> <br>
+<div style="text-align: center"> Total de pontos da <i>sprint</i>: 75 </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
 
