@@ -9,7 +9,7 @@ Apesar dos pontos a serem entregues nessa _sprint_ serem menores do que nas ante
 |                             _Issue_                              |          Título           |    _Status_     | Pontos |
 | :--------------------------------------------------------------: | :-----------------------: | :-------------: | :----: |
 | [#143](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/143) |  Verificar fluxo do app   | _Não Concluído_ |   5    |
-| [#186](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/186) | Documentação da Sprint 12 | _Não Concluído_ |   5    |
+| [#186](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/186) | Documentação da Sprint 12 |   _Concluído_   |   5    |
 | [#127](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/127) | [US04] - Recuperar senha  | _Não Concluído_ |   5    |
 | [#130](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/130) |         Firebase          | _Não Concluído_ |   8    |
 | [#138](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/138) |   [US15] Deletar ajuda    |   _Concluído_   |   5    |
@@ -18,9 +18,9 @@ Apesar dos pontos a serem entregues nessa _sprint_ serem menores do que nas ante
 
 Pontos Planejados Concluídos: 00
 
-Pontos de Dívida Concluídos: 05
+Pontos de Dívida Concluídos: 10
 
-Pontos Não Agregados: 23
+Pontos Não Agregados: 18
 
 > [_Sprint_ _Backlog_](https://github.com/fga-eps-mds/2020.2-Lend.it/milestone/13?closed=1)
 
@@ -42,7 +42,7 @@ Pode-se notar uma redução nos riscos que tiveram aumento na sprint passa, o qu
 
 <iframe height="1100" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGve6AsoRvxahK_yskgryTE1aQStxGh6_ls8RDjuH0DrdupIi26AptTJj64YT4vspgkpsoBKA2MZTd/pubchart?oid=1887590437&format=interactive"></iframe>
 
-## Retrospectiva
+![etbrd_planelta]()
 
 Por conta do feriado do dia 1º não foi realizado a review nessa semana.
 

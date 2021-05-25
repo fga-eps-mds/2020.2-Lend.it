@@ -67,3 +67,6 @@
   - **Sprint 12**
     - [Planejamento](_docs/gerência/sprint12/plaining.md)
     - [Resultados](_docs/gerência/sprint12/results.md)
+  - **Sprint 13**
+    - [Planejamento](_docs/gerência/sprint13/plaining.md)
+    - [Resultados](_docs/gerência/sprint13/results.md)
